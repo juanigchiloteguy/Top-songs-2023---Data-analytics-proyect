@@ -7,10 +7,10 @@ You can find the original dataset in the next link: https://www.kaggle.com/datas
 Hope you all like it!
 
 This project was made using the following softwares/languages:
--Excel
--Python (Jupyter Notebook)
--SQL (PostgreSQL)
--Power BI
+- Excel
+- Python (Jupyter Notebook)
+- SQL (PostgreSQL)
+- Power BI
 
 Development: 
 
@@ -59,7 +59,9 @@ By the end, the final result was the following:
 
 After finishing the dashboard, this project comes to an end. 
 
-As I said in the beginning this was my first ever project working with all the tools and softwares mentioned in the development so all kinds of feedback are welcome. 
+As I said in the beginning, this was my first ever project working with all the tools and softwares mentioned in the development so all kinds of feedback are welcome. 
+
+Don't doubt in contact me for any problem, advice or suggestion in my Linkedin: www.linkedin.com/in/juan-ignacio-chiloteguy-631a032a4
 
 All the files used in this project can be found in this repository (Cleaned dataset, SQL file, Python script and the dashboard itself) 
 
