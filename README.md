@@ -2,7 +2,7 @@ Hi people!
 
 Today I want to share with you my first ever made project for my portfolio in data analytics. In which, as my first personal project and in order to make it bearable, I wanted to work with something related to one of the things I enjoy doing the most: listening to music. For this reason, I decided to work with a public dataset uploaded in the website Kaggle, about the most streamed songs in Spotify in the past year 2023. 
 
-You can find the dataset in the next link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023 
+You can find the original dataset in the next link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023 
 
 Hope you all like it!
 
