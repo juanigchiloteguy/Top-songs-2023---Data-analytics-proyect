@@ -42,3 +42,10 @@ Once defined the tool, the next thing to do was generate the dashboard and start
 By the end, the final result was the following: 
 
 ![dashborad_gif](https://github.com/wampachata/Top-songs-2023---Data-analytics-proyect/assets/113558076/c5c64788-ef2d-43bb-9da9-c6695f7db72f)
+
+After finishing the dashboard, this project comes to an end. 
+
+As I said in the beginning this was my first ever project working with all the tools and softwares mentioned in the development so all kinds of feedback are welcome. 
+Thanks for taking your time to read all this documentation and I really hope you liked my work :)
+
+Juan Ignacio Chiloteguy
