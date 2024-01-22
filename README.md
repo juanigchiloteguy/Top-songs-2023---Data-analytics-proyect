@@ -60,7 +60,7 @@ By the end, the final result was the following:
 After finishing the dashboard, this project comes to an end. 
 
 As I said in the beginning this was my first ever project working with all the tools and softwares mentioned in the development so all kinds of feedback are welcome. 
-All the 
+All the files used in this project can be found 
 
 Thanks for taking your time to read all this documentation and I really hope you liked my work :)
 
