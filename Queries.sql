@@ -1,3 +1,20 @@
+--Table creation 
+create table top (
+	index int,
+	track_name varchar,
+	artist_name varchar,
+	artist_count int,
+	streams int,
+	bpm int,
+	mode char(10),
+	acousticness int,
+	instrumentalness int,
+	liveness int,
+	released_date, date
+);
+
+--Importation from CSV
+Copy top from 'C:\Users\Juan Ignacio\Desktop\Proyecto 1° - Top Canciones 2023\spotify_act.csv' delimiter ',' csv header;
 
 --Total number of released songs per artist
 select artist_name, count(index) from top
