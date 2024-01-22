@@ -1,0 +1,954 @@
+index,track_name,artist(s)_name,artist_count,streams,bpm,mode,acousticness_%,instrumentalness_%,liveness_%,released_date
+0,Seven (feat. Latto) (Explicit Ver.),"Latto, Jung Kook",2,141381703,125,Major,31,0,8,2023-07-14
+1,LALA,Myke Towers,1,133716286,92,Major,7,0,10,2023-03-23
+2,vampire,Olivia Rodrigo,1,140003974,138,Major,17,0,31,2023-06-30
+3,Cruel Summer,Taylor Swift,1,800840817,170,Major,11,0,11,2019-08-23
+4,WHERE SHE GOES,Bad Bunny,1,303236322,144,Minor,14,63,11,2023-05-18
+5,Sprinter,"Dave, Central Cee",2,183706234,141,Major,19,0,8,2023-06-01
+6,Ella Baila Sola,"Eslabon Armado, Peso Pluma",2,725980112,148,Minor,48,0,8,2023-03-16
+7,Columbia,Quevedo,1,58149378,100,Major,37,0,11,2023-07-07
+8,fukumean,Gunna,1,95217315,130,Minor,12,0,28,2023-05-15
+9,La Bebe - Remix,"Peso Pluma, Yng Lvcas",2,553634067,170,Minor,21,0,8,2023-03-17
+10,un x100to,"Bad Bunny, Grupo Frontera",2,505671438,83,Minor,23,0,27,2023-04-17
+11,Super Shy,NewJeans,1,58255150,150,Minor,18,0,15,2023-07-07
+12,Flowers,Miley Cyrus,1,1316855716,118,Major,6,0,3,2023-01-12
+13,Daylight,David Kushner,1,387570742,130,Minor,83,0,9,2023-04-14
+14,As It Was,Harry Styles,1,2513188493,174,Minor,34,0,31,2022-03-31
+15,Kill Bill,SZA,1,1163093654,89,Major,5,17,16,2022-12-08
+16,Cupid - Twin Ver.,Fifty Fifty,1,496795686,120,Minor,43,0,34,2023-02-24
+17,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,1,30546883,78,Major,96,0,10,2023-07-13
+18,Classy 101,"Feid, Young Miko",2,335222234,100,Major,14,0,12,2023-03-31
+19,Like Crazy,Jimin,1,363369738,120,Major,0,0,36,2023-03-24
+20,LADY GAGA,"Gabito Ballesteros, Junior H, Peso Pluma",3,86444842,140,Minor,22,0,42,2023-06-22
+21,I Can See You (Taylor���s Version) (From The,Taylor Swift,1,52135248,123,Major,6,0,6,2023-07-07
+22,I Wanna Be Yours,Arctic Monkeys,1,1297026226,135,Minor,12,2,11,2013-01-01
+23,"Peso Pluma: Bzrp Music Sessions, Vol. 55","Bizarrap, Peso Pluma",2,200647221,133,Minor,26,0,12,2023-05-31
+24,Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series),"The Weeknd, Madonna, Playboi Carti",3,115364561,99,Major,7,0,36,2023-06-02
+25,SABOR FRESA,Fuerza Regida,1,78300654,130,Minor,9,0,9,2023-06-22
+26,Calm Down (with Selena Gomez),"R��ma, Selena G",2,899183384,107,Major,43,0,14,2022-03-25
+27,MOJABI GHOST,"Tainy, Bad Bunny",2,61245289,122,Minor,14,0,56,2023-06-29
+28,Last Night,Morgan Wallen,1,429829812,204,Major,46,0,15,2023-01-31
+29,Dance The Night (From Barbie The Album),Dua Lipa,1,127408954,110,Minor,2,0,33,2023-05-25
+30,Rush,Troye Sivan,1,22581161,126,Minor,0,0,11,2023-07-13
+31,TULUM,"Peso Pluma, Grupo Frontera",2,52294266,168,Major,39,0,11,2023-06-28
+32,Creepin',"The Weeknd, 21 Savage, Metro Boomin",3,843957510,98,Minor,36,0,8,2022-12-02
+33,Anti-Hero,Taylor Swift,1,999748277,97,Major,12,0,19,2022-10-21
+34,TQG,"Karol G, Shakira",2,618990393,180,Minor,67,0,9,2023-02-23
+35,Los del Espacio,"Big One, Duki, Lit Killah, Maria Becerra, FMK, Rusherking, Emilia, Tiago pzk",8,123122413,120,Major,11,0,11,2023-06-01
+36,Fr��gil (feat. Grupo Front,"Yahritza Y Su Esencia, Grupo Frontera",2,188933502,150,Major,37,0,11,2023-04-07
+37,Blank Space,Taylor Swift,1,1355959075,96,Major,9,0,13,2014-01-01
+38,Style,Taylor Swift,1,786181836,95,Major,0,0,12,2014-01-01
+39,TQM,Fuerza Regida,1,176553476,125,Minor,27,0,11,2023-05-19
+40,El Azul,"Junior H, Peso Pluma",2,354495408,144,Minor,23,0,10,2023-02-10
+41,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",2,2808096550,90,Major,54,0,7,2018-10-09
+42,I'm Good (Blue),"Bebe Rexha, David Guetta",2,1109433169,128,Minor,4,0,35,2022-08-26
+43,See You Again,"Tyler, The Creator, Kali Uchis",3,1047101291,79,Major,37,0,11,2017-07-21
+44,Barbie World (with Aqua) [From Barbie The Album],"Nicki Minaj, Aqua, Ice Spice",3,65156199,144,Major,52,0,23,2023-06-23
+45,Angels Like You,Miley Cyrus,1,570515054,122,Major,10,0,10,2020-11-27
+46,I Ain't Worried,OneRepublic,1,1085685420,140,Major,11,0,6,2022-05-13
+47,Die For You,The Weeknd,1,1647990401,134,Minor,9,0,15,2016-11-24
+48,Starboy,"The Weeknd, Daft Punk",2,2565529693,186,Major,16,0,13,2016-09-21
+49,Die For You - Remix,"Ariana Grande, The Weeknd",2,518745108,67,Minor,23,0,44,2023-02-24
+50,El Cielo,"Feid, Myke Towers, Sky Rompiendo",3,107753850,106,Minor,7,0,10,2023-06-02
+51,Baby Don't Hurt Me,"David Guetta, Anne-Marie, Coi Leray",3,177740666,128,Major,0,0,12,2023-04-06
+52,AMARGURA,Karol G,1,153372011,107,Minor,18,0,15,2023-02-24
+53,(It Goes Like) Nanana - Edit,Peggy Gou,1,57876440,130,Minor,12,19,8,2023-06-15
+54,Another Love,Tom Odell,1,1813673666,123,Minor,70,0,9,2012-10-15
+55,Blinding Lights,The Weeknd,1,3703895074,171,Major,0,0,9,2019-11-29
+56,Moonlight,Kali Uchis,1,256483385,137,Minor,51,0,17,2023-02-24
+57,La Bachata,Manuel Turizo,1,1214083358,125,Minor,58,0,22,2022-05-26
+58,S91,Karol G,1,16011326,128,Minor,59,0,9,2023-07-14
+59,cardigan,Taylor Swift,1,812019557,130,Minor,55,0,27,2020-07-24
+60,T��,"dennis, MC Kevin o Chris",2,111947664,130,Major,50,1,9,2023-05-04
+61,Boy's a liar Pt. 2,"PinkPantheress, Ice Spice",2,156338624,133,Major,25,0,25,2023-02-03
+62,Left and Right (Feat. Jung Kook of BTS),"Charlie Puth, BTS, Jung Kook",3,720434240,101,Major,62,0,9,2022-06-24
+63,BESO,"Rauw Alejandro, ROSAL�",2,357925728,95,Minor,74,0,17,2023-03-24
+64,Hey Mor,"Ozuna, Feid",2,674072710,98,Minor,0,0,10,2022-10-06
+65,Yellow,Chris Molitor,1,1755214421,173,Major,0,0,23,1999-01-01
+66,Karma,Taylor Swift,1,404562836,90,Major,7,0,48,2022-10-21
+67,People,Libianca,1,373199958,198,Minor,55,0,10,2022-12-02
+68,Overdrive,Post Malone,1,14780425,140,Major,0,0,35,2023-07-14
+69,Enchanted (Taylor's Version),Taylor Swift,1,39578178,82,Major,1,0,15,2023-07-07
+70,BABY HELLO,"Rauw Alejandro, Bizarrap",2,54266102,130,Minor,17,0,43,2023-06-23
+71,Heat Waves,Glass Animals,1,2557975762,81,Major,44,0,9,2020-06-28
+72,golden hour,JVKE,1,751134527,94,Minor,65,18,25,2022-07-15
+73,Sweater Weather,The Neighbourhood,1,2282771485,124,Major,5,2,10,2012-05-14
+74,"Quevedo: Bzrp Music Sessions, Vol. 52","Bizarrap, Quevedo",2,1356565093,128,Major,1,3,23,2022-07-06
+75,Viva La Vida,Coldplay,1,1592909789,138,Minor,9,0,11,2008-01-01
+76,Here With Me,d4vd,1,635412045,132,Major,50,0,12,2022-07-17
+77,Unholy (feat. Kim Petras),"Sam Smith, Kim Petras",2,1230675890,131,Major,1,0,27,2022-09-22
+78,Yandel 150,"Yandel, Feid",2,585695368,168,Minor,5,0,10,2022-12-20
+79,CORAZ��N VA,Maria Becerra,1,43857627,98,Major,33,0,30,2023-06-22
+80,Riptide,Vance Joy,1,2009094673,102,Major,43,0,15,1975-01-01
+81,Until I Found You (with Em Beihold) - Em Beihold Version,"Em Beihold, Stephen Sanchez",2,600976848,101,Major,78,0,20,2022-04-22
+82,Novidade na ��,"Mc Livinho, DJ Matt D",2,39709092,130,Major,76,0,35,2023-06-23
+83,Back To December (Taylor's Version),Taylor Swift,1,39228929,142,Major,1,0,12,2023-07-07
+84,STAY (with Justin Bieber),"Justin Bieber, The Kid Laroi",2,2665343922,170,Major,4,0,10,2021-07-09
+85,El Merengue,"Marshmello, Manuel Turizo",2,223633238,124,Minor,3,1,11,2023-03-03
+86,Someone You Loved,Lewis Capaldi,1,2887241814,110,Major,75,0,11,2018-11-08
+87,Me Porto Bonito,"Chencho Corleone, Bad Bunny",2,1440757818,92,Minor,9,0,9,2022-05-06
+88,Makeba,Jain,1,165484133,116,Major,39,51,25,2015-06-22
+89,MONTAGEM - FR PUNK,"Ayparia, unxbected",2,58054811,129,Major,70,8,9,2012-06-20
+90,Fast Car,Luke Combs,1,157058870,98,Major,19,0,12,2023-03-24
+91,What It Is (Solo Version),Doechii,1,95131998,172,Minor,6,0,10,2023-03-17
+92,Coco Chanel,"Bad Bunny, Eladio Carrion",2,250305248,150,Major,4,0,10,2023-03-17
+93,Don���t Bl,Taylor Swift,1,685032533,136,Minor,11,0,6,2017-11-08
+94,Still With You,Jung Kook,1,38411956,88,Minor,9,0,83,2020-06-05
+95,All My Life (feat. J. Cole),"J. Cole, Lil Durk",2,144565150,143,Major,15,0,10,2023-05-12
+96,Say Yes To Heaven,Lana Del Rey,1,127567540,100,Minor,71,9,11,2023-03-17
+97,Snooze,SZA,1,399686758,143,Major,14,0,11,2022-12-09
+98,Summertime Sadness,Lana Del Rey,1,983637508,112,Minor,7,0,12,2011-01-01
+99,Take Two,BTS,1,118482347,93,Major,3,0,38,2023-06-09
+100,Lover,Taylor Swift,1,882831184,206,Major,50,0,15,2012-01-01
+101,Too Many Nights (feat. Don Toliver & with Future),"Future, Metro Boomin, Don Toliver",3,286400165,88,Minor,15,0,11,2022-12-02
+102,Chemical,Post Malone,1,172825906,170,Major,0,0,12,2023-04-14
+103,Mockingbird,Eminem,1,1241559043,84,Minor,21,0,13,2004-01-01
+104,New Jeans,NewJeans,1,29562220,134,Minor,51,0,12,2023-07-07
+105,Primera Cita,Carin Leon,1,77309611,158,Major,61,0,10,2022-04-20
+106,Cold Heart - PNAU Remix,"Dua Lipa, Elton John, Pnau",3,1605224506,116,Major,4,0,10,2017-11-10
+107,Dandelions,Ruth B.,1,1116995633,117,Major,2,0,9,2017-04-28
+108,Bones,Imagine Dragons,1,838079900,114,Minor,2,0,7,2021-03-11
+109,Set Fire to the Rain,Adele,1,1163620694,108,Minor,0,0,13,2011-01-01
+110,Money Trees,"Kendrick Lamar, Jay Rock",2,1093605526,144,Minor,7,0,21,2012-01-01
+111,Tak Segampang Itu,Anggi Marito,1,179659294,130,Major,76,0,11,2022-12-02
+112,LAGUNAS,"Jasiel Nu��ez, Peso P",2,39058561,116,Major,33,1,15,2023-06-22
+113,Mine (Taylor's Version),Taylor Swift,1,36912123,121,Major,0,0,17,2023-07-07
+114,Everybody Wants To Rule The World,Tears For Fears,1,1205951614,112,Major,36,0,11,1985-02-17
+115,No Role Modelz,J. Cole,1,1791000570,100,Minor,30,0,6,2014-12-09
+116,Tattoo,Loreen,1,201660859,150,Minor,24,0,12,2023-02-25
+117,Rara Vez,"Taiu, Milo j",2,248088961,120,Minor,18,0,34,2023-02-08
+118,VAGABUNDO,"Sebastian Yatra, Manuel Turizo, Be��",3,90839753,127,Minor,4,0,23,2023-05-12
+119,august,Taylor Swift,1,607123776,90,Major,53,0,9,2020-07-24
+120,LUNA,"Junior H, Peso Pluma",2,55842345,128,Minor,33,0,15,2023-06-22
+121,Miracle (with Ellie Goulding),"Calvin Harris, Ellie Goulding",2,211050784,143,Major,4,4,8,2023-03-10
+122,Nonsense,Sabrina Carpenter,1,342897938,139,Major,3,0,26,2022-07-15
+123,Que Vuelvas,"Carin Leon, Grupo Frontera",2,2762,162,Major,19,0,11,2022-12-09
+124,Por las Noches,Peso Pluma,1,330346424,92,Major,31,0,7,2021-06-11
+125,Feliz Cumplea��os Fe,Feid,1,601863821,95,Major,10,0,29,2022-08-19
+126,Can't Hold Us (feat. Ray Dalton),"Ray Dalton, Ryan Lewis, Macklemore",3,1953533826,146,Major,3,0,10,2011-08-16
+127,Watermelon Sugar,Harry Styles,1,2322580122,95,Major,12,0,34,2019-11-17
+128,lovely - Bonus Track,"Billie Eilish, Khalid",2,2355719893,115,Minor,93,0,10,2017-08-11
+129,"Rauw Alejandro: Bzrp Music Sessions, Vol. 56","Rauw Alejandro, Bizarrap",2,66902503,128,Major,10,0,26,2023-06-21
+130,Queencard,(G)I-DLE,1,96273746,130,Minor,3,0,27,2023-05-15
+131,OMG,NewJeans,1,430977451,127,Minor,36,0,11,2023-01-02
+132,Radio,Lana Del Rey,1,284819874,150,Major,21,0,9,2011-01-01
+133,"Shakira: Bzrp Music Sessions, Vol. 53","Shakira, Bizarrap",2,721975598,122,Minor,27,0,9,2023-01-11
+134,505,Arctic Monkeys,1,1217120710,140,Major,0,0,7,2007-04-20
+135,"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)","Swae Lee, A Boogie Wit da Hoodie, Metro Boomin, NAV",4,109276132,140,Major,46,0,12,2023-06-02
+136,Trance (with Travis Scott & Young Thug),"Travis Scott, Young Thug, Metro Boomin",3,276259178,119,Minor,18,0,18,2022-12-02
+137,"Tere Vaaste (From ""Zara Hatke Zara Bachke"")","Sachin-Jigar, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya, Varun Jain",5,54225632,110,Minor,32,0,9,2023-05-22
+138,Perfect,Ed Sheeran,1,2559529074,95,Major,16,0,11,2017-01-01
+139,Romantic Homicide,d4vd,1,681583126,132,Major,45,1,32,2022-07-20
+140,Believer,Imagine Dragons,1,2594040133,125,Minor,4,0,23,2017-01-31
+141,Novo Balan�,"Veigh, Bvga Beatz, Supernova Ent, Prod Malax",4,81102253,124,Minor,67,0,13,2023-05-19
+142,"Gol Bolinha, Gol Quadrado 2","Mc Pedrinho, DJ 900",2,11956641,133,Minor,42,0,12,2023-06-01
+143,Without Me,Eminem,1,1687664027,112,Major,0,0,36,2002-01-01
+144,QUEMA,"Sog, Ryan Castro, Peso Pluma",3,11599388,97,Major,5,0,6,2023-07-13
+145,Stargirl Interlude,"The Weeknd, Lana Del Rey",2,611700552,90,Minor,38,5,10,2016-11-24
+146,Ojitos Lindos,"Bomba Est��reo, Bad B",2,1133865788,80,Minor,8,0,53,2022-05-06
+147,Somewhere Only We Know,Keane,1,1089402494,172,Major,6,0,8,2004-01-01
+148,Those Eyes,New West,1,411747614,120,Major,73,0,31,2019-05-10
+149,El Gordo Trae El Mando,Chino Pacas,1,255932395,140,Minor,18,0,5,2023-01-27
+150,Mi Bello Angel,Natanael Cano,1,31873544,128,Minor,1,0,9,2023-06-30
+151,Bye,Peso Pluma,1,95053634,122,Major,57,0,10,2023-05-26
+152,Danza Kuduro,"Don Omar, Lucenzo",2,1279434863,130,Major,8,0,5,2010-01-01
+153,Nosso Quadro,"Ana Castela, AgroPlay",2,233801632,160,Major,33,0,31,2023-02-02
+154,Locked Out Of Heaven,Bruno Mars,1,1481349984,144,Major,6,0,28,2012-12-05
+155,Un Finde | CROSSOVER #2,"Big One, FMK, Ke personajes",3,142095275,192,Major,11,0,28,2023-04-04
+156,Jimmy Cooks (feat. 21 Savage),"Drake, 21 Savage",2,618885532,163,Major,0,0,9,2022-06-17
+157,Counting Stars,OneRepublic,1,2011464183,122,Minor,6,0,12,2013-01-01
+158,Ghost,Justin Bieber,1,1167330737,154,Major,21,0,40,2021-03-19
+159,Under The Influence,Chris Brown,1,929964809,117,Minor,6,0,11,2019-10-04
+160,PRC,"Natanael Cano, Peso Pluma",2,436027885,138,Minor,10,0,12,2023-01-23
+161,Gasolina,Daddy Yankee,1,657723613,96,Major,33,0,8,2004-07-13
+162,One Dance,"Drake, WizKid, Kyla",3,2713922350,104,Major,1,0,36,2016-04-04
+163,Enchanted,Taylor Swift,1,621660989,164,Major,8,0,16,2010-01-01
+164,Save Your Tears,The Weeknd,1,1591223784,118,Major,2,0,50,2020-03-20
+165,Sure Thing,Miguel,1,950906471,81,Minor,3,0,19,2010-05-25
+166,Every Breath You Take - Remastered 2003,The Police,1,1593270737,117,Major,54,0,7,1983-01-06
+167,The Night We Met,Lord Huron,1,1410088830,174,Major,97,25,64,2015-02-02
+168,We Found Love,"Rihanna, Calvin Harris",2,1235005533,128,Major,3,0,11,2011-01-01
+169,When I Was Your Man,Bruno Mars,1,1661187319,145,Major,94,0,14,2012-12-05
+170,Let Me Down Slowly,Alec Benjamin,1,1374581173,150,Minor,73,0,14,2018-05-25
+171,"Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)","A$AP Rocky, Metro Boomin, Roisee",3,94186466,90,Minor,4,0,21,2023-06-02
+172,Do I Wanna Know?,Arctic Monkeys,1,1788326445,85,Major,17,0,22,2013-01-01
+173,Demons,Imagine Dragons,1,1840364617,180,Major,20,0,28,2012-01-01
+174,������������,YOASOBI,1,143573775,166,Major,11,0,37,2023-04-12
+175,Reminder,The Weeknd,1,684675814,160,Major,16,0,16,2016-11-25
+176,Shake It Off,Taylor Swift,1,1113838873,160,Major,5,0,41,2014-01-01
+177,Why'd You Only Call Me When You're High?,Arctic Monkeys,1,1267333350,92,Major,4,0,8,2013-01-01
+178,SNAP,Rosa Linn,1,726307468,170,Major,11,0,45,2022-03-19
+179,Shape of You,Ed Sheeran,1,3562543890,96,Minor,58,0,9,2017-01-06
+180,Night Changes,One Direction,1,1131090940,120,Major,86,0,12,2014-11-17
+181,Fin de Semana,"Oscar Maydon, Junior H",2,307370144,98,Major,6,0,9,2023-01-13
+182,Creep,Radiohead,1,1271293243,92,Major,1,0,12,1992-09-21
+183,Car's Outside,James Arthur,1,265882712,150,Major,4,0,11,2019-10-18
+184,Apocalypse,Cigarettes After Sex,1,841749534,94,Major,2,46,11,2017-03-21
+185,Cheques,Shubh,1,47956378,90,Minor,26,0,27,2023-05-19
+186,Pink + White,Frank Ocean,1,806397070,160,Major,67,0,42,2016-08-20
+187,Circles,Post Malone,1,2132335812,120,Major,24,0,9,2019-08-30
+188,Just The Way You Are,Bruno Mars,1,1641426668,109,Major,1,0,9,2010-01-01
+189,Take Me To Church,Hozier,1,2135158446,129,Minor,63,0,12,2013-09-13
+190,Bebe Dame,"Fuerza Regida, Grupo Frontera",2,367316268,157,Major,30,0,7,2022-12-16
+191,You Belong With Me (Taylor���s Ve,Taylor Swift,1,350381515,130,Major,5,0,9,2021-04-09
+192,Titi Me Pregunt�,Bad Bunny,1,1264310836,107,Minor,10,0,13,2022-05-06
+193,Better Than Revenge (Taylor's Version),Taylor Swift,1,30343206,146,Minor,0,0,19,2023-07-07
+194,Shut up My Moms Calling,Hotel Ugly,1,405136812,139,Minor,32,0,10,2020-02-10
+195,Have You Ever Seen The Rain?,Creedence Clearwater Revival,1,1145727611,116,Major,7,0,13,1968-07-01
+196,Es un Secreto,Plan B,1,540654286,95,Minor,12,0,7,2010-07-20
+197,POLARIS - Remix,"Feid, Mora, Saiko, Quevedo",4,57312735,170,Minor,15,0,37,2023-06-08
+198,Ditto,NewJeans,1,397582059,134,Minor,3,0,10,2022-12-19
+199,Take On Me,a-ha,1,1479115056,84,Minor,2,0,9,1984-10-19
+200,"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)","Swae Lee, Lil Wayne, Offset, Metro Boomin",4,86773632,146,Minor,21,0,12,2023-06-02
+201,"Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long)","Kodak Black, NLE Choppa, Muni Long, JVKE, Jimin",5,133753727,74,Minor,11,0,10,2023-05-01
+202,Acr��s,Shakira,1,123124076,144,Major,84,0,10,2023-05-11
+203,AMG,"Natanael Cano, Gabito Ballesteros, Peso Pluma",3,463564958,136,Minor,15,0,27,2022-11-24
+204,"Phir Aur Kya Chahiye (From ""Zara Hatke Zara Bachke"")","Arijit Singh, Sachin-Jigar, Amitabha Bhattacharya",3,64533040,100,Major,53,0,12,2023-05-15
+205,S-Class,Stray Kids,1,65496046,105,Minor,9,0,7,2023-06-02
+206,Hits Different,Taylor Swift,1,68616963,106,Major,15,0,30,2023-05-26
+207,Chanel,"Becky G, Peso Pluma",2,161460990,132,Major,40,0,9,2023-03-30
+208,Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray),"Metro Boomin, Coi Leray",2,70106975,120,Major,21,0,13,2023-06-02
+209,Area Codes,"Kaliii, Kaliii",2,113509496,155,Major,2,0,9,2023-03-17
+210,Abcdario,"Junior H, Eden Mu��",2,89933133,129,Major,78,0,11,2023-05-13
+211,Obsessed,"Abhijay Sharma, Riar Saab",2,71007139,135,Minor,62,0,8,2022-09-29
+212,Pi��man De�,"Semicenk, Do��u ",2,43522589,98,Minor,28,0,13,2023-06-02
+213,FLOWER,JISOO,1,232896922,124,Minor,3,0,11,2023-03-31
+214,"All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)","Future, Lil Uzi Vert, Metro Boomin",3,37126685,135,Minor,18,0,22,2023-06-02
+215,Eyes Closed,Ed Sheeran,1,195576623,107,Major,30,0,11,2023-03-23
+216,Escapism.,"RAYE, 070 Shake",2,532336353,96,Major,14,0,9,2022-10-12
+217,La Jumpa,"Arcangel, Bad Bunny",2,538115192,123,Major,30,0,32,2022-11-30
+218,Karma (feat. Ice Spice),"Taylor Swift, Ice Spice",2,46142772,90,Major,6,0,58,2023-05-26
+219,Superhero (Heroes & Villains) [with Future & Chris Brown],"Future, Chris Brown, Metro Boomin",3,401036314,117,Minor,14,0,20,2022-12-02
+220,Las Morras,"BLESSD, Peso Pluma",2,127026613,133,Minor,31,0,7,2023-04-04
+221,CHORRITO PA LAS ANIMAS,Feid,1,345031710,96,Minor,11,0,35,2022-12-02
+222,Ch y la Pizza,"Fuerza Regida, Natanael Cano",2,288101651,149,Major,40,0,14,2022-12-01
+223,Snow On The Beach (feat. More Lana Del Rey),"Lana Del Rey, Taylor Swift",2,60350538,110,Minor,81,0,11,2023-05-26
+224,Players,Coi Leray,1,335074782,105,Major,3,0,5,2022-11-30
+225,Bite Me,ENHYPEN,1,76767396,105,Major,28,0,11,2023-05-22
+226,Stand By Me (feat. Morgan Wallen),"Lil Durk, Morgan Wallen",2,46065667,134,Major,6,0,16,2023-05-26
+227,Normal,Feid,1,459276435,170,Minor,4,0,27,2022-07-08
+228,Hummingbird (Metro Boomin & James Blake),"James Blake, Metro Boomin",2,39666245,81,Major,46,1,25,2023-06-02
+229,Seu Brilho Sumiu - Ao Vivo,"Israel & Rodolffo, Mari Fernandez",2,138517666,154,Major,31,0,91,2023-03-01
+230,Bad Habit,Steve Lacy,1,822633917,169,Major,63,0,38,2022-06-29
+231,CUFF IT,Beyonc�,1,595900742,115,Major,4,0,7,2022-07-29
+232,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),"Halsey, Suga",2,51985779,84,Minor,1,0,19,2023-06-05
+233,69,"Nicky Jam, Feid",2,57945987,93,Major,11,0,11,2023-05-18
+234,Ni��a Bo,"Sean Paul, Feid",2,115010040,91,Major,10,0,10,2023-04-21
+235,Search & Rescue,Drake,1,175097833,142,Minor,6,0,33,2023-04-07
+236,AMERICA HAS A PROBLEM (feat. Kendrick Lamar),"Kendrick Lamar, Beyonc�",2,57089066,126,Major,1,0,16,2023-05-19
+237,Lavender Haze,Taylor Swift,1,488386797,97,Major,26,0,16,2022-10-21
+238,"Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )","WizKid, Toian, Metro Boomin, Don Toliver, Beam",5,32761689,101,Major,41,51,26,2023-06-02
+239,Efecto,Bad Bunny,1,1047480053,98,Minor,14,0,6,2022-05-06
+240,Erro Gostoso - Ao Vivo,Simone Mendes,1,153454328,154,Major,18,0,80,2023-01-27
+241,Cupido,Tini,1,217672943,120,Major,52,0,31,2023-02-14
+242,Just Wanna Rock,Lil Uzi Vert,1,457184829,150,Major,7,0,6,2022-10-17
+243,Unstoppable,Sia,1,939844851,174,Major,11,0,10,2016-01-21
+244,Until I Found You,Stephen Sanchez,1,726434358,202,Major,69,0,18,2021-09-01
+245,Rich Flex,"Drake, 21 Savage",2,573633020,153,Minor,5,0,36,2022-11-04
+246,Easy On Me,Adele,1,1406111294,142,Major,58,0,13,2021-10-14
+247,Cart��o B,"MC Caverinha, KayBlack",2,71573339,108,Minor,26,0,20,2023-05-11
+248,Danger (Spider) (Offset & JID),"Offset, JID",2,24975653,143,Major,4,0,23,2023-06-02
+249,Oi Balde - Ao Vivo,Z�� Neto & Crist,1,145458418,108,Major,60,0,80,2023-02-14
+250,The Real Slim Shady,Eminem,1,1424589568,104,Minor,3,0,4,2000-01-01
+251,MERCHO,"Migrantes, LiL CaKe, Nico Valdi",3,231332117,93,Minor,43,0,18,2022-12-16
+252,The Color Violet,Tory Lanez,1,415932686,105,Minor,16,0,9,2021-12-10
+253,Glimpse of Us,Joji,1,988515741,170,Major,89,0,14,2022-06-10
+254,Mejor Que Yo,"Mambo Kingz, DJ Luian, Anuel Aa",3,50847624,178,Minor,18,0,12,2023-05-04
+255,Curtains,Ed Sheeran,1,39893489,176,Minor,10,0,32,2023-05-05
+256,UNFORGIVEN (feat. Nile Rodgers),"Nile Rodgers, LE SSERAFIM",2,92035115,104,Minor,11,0,11,2023-05-01
+257,Haegeum,Agust D,1,118810253,85,Major,31,0,47,2023-04-21
+258,Conex��es de M��fia (feat. Rich,"Rich The Kid, Matu�",2,77233241,117,Minor,39,0,26,2023-04-30
+259,MIENTRAS ME CURO DEL CORA,Karol G,1,206399629,80,Major,86,0,15,2023-02-24
+260,Never Felt So Alone,Labrinth,1,117747907,98,Major,50,0,38,2023-04-07
+261,X SI VOLVEMOS,"Karol G, Romeo Santos",2,266624541,178,Minor,34,0,11,2023-02-02
+262,ceilings,Lizzy McAlpine,1,293186992,148,Major,48,0,22,2022-04-08
+263,Cupid,Fifty Fifty,1,139681964,120,Major,65,0,38,2023-02-24
+264,I AM,IVE,1,123132751,122,Minor,1,0,8,2023-04-10
+265,Cupid ��� Twin Ver. (FIFTY FIFTY) ��� Spe,sped up 8282,1,103762518,144,Major,42,0,9,1997-01-01
+266,Shorty Party,"Cartel De Santa, La Kelly",2,162887075,96,Major,33,0,10,2023-03-04
+267,Super,SEVENTEEN,1,91221625,137,Major,16,0,17,2023-04-24
+268,Slut Me Out,NLE Choppa,1,190490915,121,Minor,12,0,53,2022-04-22
+269,Double Fantasy (with Future),"The Weeknd, Future",2,96180277,119,Minor,1,0,50,2023-04-21
+270,All Of The Girls You Loved Before,Taylor Swift,1,185240616,96,Major,71,0,13,2019-08-23
+271,PROVENZA,Karol G,1,885093467,111,Major,66,1,11,2022-04-21
+272,Princess Diana (with Nicki Minaj),"Nicki Minaj, Ice Spice",2,104992946,148,Major,14,0,10,2023-04-14
+273,Di Que Si,"Grupo Marca Registrada, Grupo Frontera",2,147290338,182,Major,8,0,6,2023-02-03
+274,Shivers,Ed Sheeran,1,1302184087,141,Major,28,0,4,2021-09-09
+275,Igualito a Mi Ap�,"Fuerza Regida, Peso Pluma",2,158950978,145,Minor,19,0,6,2022-12-30
+276,Shoong! (feat. LISA of BLACKPINK),"TAEYANG, Lisa",2,76910644,110,Minor,1,0,41,2023-04-25
+277,Komang,Raim Laode,1,137123880,134,Major,41,0,10,2022-08-16
+278,DESPECH�,ROSAL�,1,782369383,130,Major,18,0,6,2022-07-28
+279,Made You Look,Meghan Trainor,1,502574952,145,Major,35,0,8,2022-10-21
+280,Watch This - ARIZONATEARS Pluggnb Remix,"sped up nightcore, ARIZONATEARS, Lil Uzi Vert",3,207033255,130,Minor,1,10,15,2023-02-05
+281,No Se Va,Grupo Frontera,1,404887295,173,Major,12,0,23,2022-04-28
+282,Punto G,Quevedo,1,381161027,92,Minor,25,0,10,2022-11-04
+283,Lovers Rock,TV Girl,1,466231982,105,Minor,0,1,10,2014-06-05
+284,METAMORPHOSIS,INTERWORLD,1,357580552,175,Minor,43,90,12,2021-11-25
+285,Mami Chula,"Quevedo, Jhayco",2,61105704,120,Minor,22,0,9,2023-04-27
+286,En Paris,"El Chachito, Junior H",2,198275403,139,Minor,37,0,12,2022-12-24
+287,Set Me Free Pt.2,Jimin,1,168448603,132,Minor,12,0,12,2023-03-17
+288,I Was Never There,"The Weeknd, Gesaffelstein",2,705469769,114,Major,14,0,17,2018-03-29
+289,Don't ever say love me (feat. RM of BTS),"RM, Colde",2,34502215,145,Minor,36,0,37,2023-05-04
+290,Shut Down,BLACKPINK,1,482175240,110,Major,0,0,18,2022-09-16
+291,Gato de Noche,"Nengo Flow, Bad Bunny",2,304118600,94,Major,17,0,36,2022-12-22
+292,Call Out My Name,The Weeknd,1,1449799467,134,Major,21,0,33,2018-03-29
+293,Like Crazy (English Version),Jimin,1,173627354,120,Major,0,0,39,2023-03-24
+294,Rosa Pastel,"Jasiel Nu��ez, Peso P",2,90025258,123,Minor,24,0,11,2023-02-02
+295,Sunroof,"Nicky Youre, Dazy",2,652704649,131,Major,35,0,15,2021-12-03
+296,Lose Yourself - Soundtrack Version,Eminem,1,1829992958,171,Major,1,0,36,2002-01-01
+297,Superman,"Eminem, Dina Rae",2,655466831,130,Minor,2,0,20,2002-05-26
+298,Mas Rica Que Ayer,"Mambo Kingz, DJ Luian, Anuel Aa",3,146409671,94,Major,34,0,9,2023-03-02
+299,People Pt.2 (feat. IU),"IU, Agust D",2,95816024,89,Minor,39,0,32,2023-04-07
+300,REMIX EXCLUSIVO,Feid,1,117206995,87,Minor,4,0,15,2023-03-17
+301,"Arc��ngel: Bzrp Music Sessions, Vol","Arcangel, Bizarrap",2,100409613,124,Minor,55,0,15,2023-03-22
+302,DOGTOOTH,"Tyler, The Creator",2,80758350,78,Major,51,0,22,2023-03-27
+303,10:35,"Ti��sto, Tate M",2,325592432,120,Major,7,0,18,2022-11-01
+304,SORRY NOT SORRY,"Tyler, The Creator",2,58473276,96,Minor,40,0,37,2023-03-31
+305,HAPPY,NF,1,52722996,106,Major,31,0,12,2023-03-25
+306,La Bebe,Yng Lvcas,1,191945597,170,Minor,62,0,12,2021-12-24
+307,I Know - PR1SVX Edit,"Kanii, PR1ISVX",2,77377503,134,Minor,8,47,30,2023-03-24
+308,Late Night Talking,Harry Styles,1,743693613,115,Major,30,0,11,2022-05-20
+309,Le�,Mar��lia Mendo,1,267789608,130,Major,45,0,30,2022-12-09
+310,Save Your Tears (with Ariana Grande) (Remix),"Ariana Grande, The Weeknd",2,1221813483,118,Major,3,0,10,2020-03-20
+311,Something in the Orange,Zach Bryan,1,449701773,110,Major,42,0,12,2022-04-22
+312,VOID,Melanie Martinez,1,67070410,100,Major,18,4,19,2023-03-29
+313,Dijeron Que No La Iba Lograr,"Fuerza Regida, Chino Pacas",2,116334601,142,Minor,26,0,11,2023-03-14
+314,Midnight Rain,Taylor Swift,1,433356509,140,Major,72,0,12,2022-10-21
+315,If We Ever Broke Up,Mae Stephens,1,165584767,116,Major,62,0,9,2023-02-10
+316,You Proof,Morgan Wallen,1,367814306,120,Major,25,0,61,2022-05-13
+317,LA INOCENTE,"Feid, Mora",2,477033549,92,Minor,31,0,7,2022-04-01
+318,Malas Decisiones,Kenia OS,1,156214700,110,Minor,5,0,31,2022-10-26
+319,Murder In My Mind,Kordhell,1,448843705,120,Major,1,0,13,2022-01-21
+320,Gangsta's Paradise,"Coolio, L.V.",2,1357608774,80,Major,9,0,56,1995-07-11
+321,CAIRO,"Karol G, Ovy On The Drums",2,294352144,115,Minor,47,0,9,2022-11-13
+322,I Love You So,The Walters,1,972164968,76,Major,65,0,13,2014-11-28
+323,Dark Red,Steve Lacy,1,920045682,172,Major,45,0,12,2017-02-20
+324,Say You Won't Let Go,James Arthur,1,2420461338,99,Major,69,0,9,2016-09-09
+325,The Hills,The Weeknd,1,1947371785,136,Minor,9,0,14,2015-05-27
+326,Heart To Heart,Mac DeMarco,1,244658767,150,Minor,67,35,11,2019-05-10
+327,Peaches (from The Super Mario Bros. Movie),Jack Black,1,68216992,92,Minor,79,0,10,2023-04-07
+328,Marisola - Remix,"Duki, NICKI NICOLE, Cris Mj, Standly, Stars Music Chile",5,223582566,95,Major,17,0,7,2022-12-15
+329,LOKERA,"Brray, Rauw Alejandro, Lyanno",3,471819764,102,Minor,21,0,10,2022-07-25
+330,Low,SZA,1,272377463,145,Minor,43,0,16,2022-12-09
+331,Numb,Linkin Park,1,1361425037,110,Major,0,0,64,2003-03-24
+332,Tormenta (feat. Bad Bunny),"Gorillaz, Bad Bunny",2,149778242,95,Major,46,0,38,2023-02-24
+333,on the street (with J. Cole),"j-hope, J. Cole",2,116599790,94,Minor,53,0,9,2023-03-03
+334,One Thing At A Time,Morgan Wallen,1,148469433,142,Major,0,0,26,2022-12-02
+335,Miss You,"Robin Schulz, Oliver Tree",2,497225336,145,Minor,1,0,15,2022-08-05
+336,Ain���t Tha,Morgan Wallen,1,88791109,121,Minor,0,0,36,2023-03-03
+337,Thinkin��� B,Morgan Wallen,1,125917280,140,Minor,49,0,12,2023-03-03
+338,Private Landing (feat. Justin Bieber & Future),"Don Toliver, Future, Justin Bieber",3,105062254,137,Minor,8,0,11,2023-02-23
+339,Everything I Love,Morgan Wallen,1,95623148,104,Major,0,0,15,2023-01-31
+340,Heaven,Niall Horan,1,144584800,92,Major,7,0,33,2023-02-17
+341,LET GO,Central Cee,1,298063749,146,Minor,86,0,21,2022-12-15
+342,Sial,Mahalini,1,166570053,120,Major,89,0,12,2023-01-23
+343,I Wrote The Book,Morgan Wallen,1,83021468,144,Major,9,0,8,2023-01-31
+344,"Apna Bana Le (From ""Bhediya"")","Arijit Singh, Sachin-Jigar",2,139836056,94,Major,80,0,6,2022-11-05
+345,SPIT IN MY FACE!,ThxSoMch,1,303216294,94,Major,5,2,11,2022-10-31
+346,PLAYA DEL INGL�,"Myke Towers, Quevedo",2,221409663,113,Minor,8,0,11,2022-12-15
+347,Man Made A Bar (feat. Eric Church),"Morgan Wallen, Eric Church",2,58890931,148,Major,12,0,12,2023-03-03
+348,Red Ruby Da Sleeze,Nicki Minaj,1,81419389,98,Major,12,0,11,2023-03-03
+349,Kahani Suno 2.0,Kaifi Khalil,1,156777415,140,Major,91,0,10,2022-05-31
+350,Nobody Gets Me,SZA,1,284908316,100,Major,81,0,18,2022-12-09
+351,PERO T�,"Karol G, Quevedo",2,93438910,140,Major,39,0,11,2023-02-23
+352,Hype Boy,NewJeans,1,363472647,100,Minor,27,0,29,2022-08-01
+353,Bloody Mary,Lady Gaga,1,372476382,100,Minor,2,0,13,2011-01-01
+354,Monoton�,"Ozuna, Shakira",2,380726517,132,Minor,42,0,21,2022-10-19
+355,���98 Braves,Morgan Wallen,1,56533272,142,Major,10,0,26,2023-03-03
+356,WANDA,Quevedo,1,175399345,176,Minor,25,0,21,2023-01-20
+357,Thought You Should Know,Morgan Wallen,1,203221468,140,Major,49,0,14,2022-05-06
+358,In The End,Linkin Park,1,1624165576,105,Minor,1,0,32,2000-10-24
+359,Zona De Perigo,Leo Santana,1,134294498,135,Major,75,0,35,2022-12-08
+360,Lovezinho,Treyce,1,70069745,128,Minor,30,0,12,2022-07-28
+361,I Like You (A Happier Song) (with Doja Cat),"Post Malone, Doja Cat",2,609293408,101,Major,12,0,12,2022-06-03
+362,Neverita,Bad Bunny,1,671365962,122,Major,7,0,14,2022-05-06
+363,Vista Al Mar,Quevedo,1,362361576,105,Minor,80,12,10,2022-09-08
+364,Sem Alian��a no,"MC Xenon, Os Gemeos da Putaria",2,93587665,83,Major,73,0,11,2022-12-23
+365,Enemy (with JID) - from the series Arcane League of Legends,"Imagine Dragons, League of Legends, JID, Arcane",4,1223481149,77,Minor,24,0,42,2021-09-03
+366,Revenge,XXXTENTACION,1,1022258230,140,Minor,78,0,11,2017-08-25
+367,Bombonzinho - Ao Vivo,"Israel & Rodolffo, Ana Castela",2,263453310,158,Major,31,0,92,2022-11-03
+368,LA CANCI�,"J Balvin, Bad Bunny",2,1435127549,176,Major,15,0,11,2019-06-28
+369,Qu�� Ago,"Yuridia, Angela Aguilar",2,236857112,98,Major,56,0,5,2022-10-20
+370,Love Again,The Kid Laroi,1,147538971,107,Minor,72,0,11,2023-01-27
+371,After Hours,The Weeknd,1,698086140,109,Minor,10,1,12,2020-02-19
+372,About Damn Time,Lizzo,1,723894473,109,Minor,10,0,34,2022-07-15
+373,Born With A Beer In My Hand,Morgan Wallen,1,34450974,148,Major,5,0,36,2023-03-03
+374,���������������������,Fujii Kaze,1,403097450,158,Minor,17,0,19,2020-05-20
+375,Besos Moja2,"Wisin & Yandel, ROSAL�",2,309483971,94,Minor,6,0,10,2022-09-29
+376,Maan Meri Jaan,King,1,319566866,96,Minor,35,0,10,2022-10-12
+377,Moscow Mule,Bad Bunny,1,909001996,100,Minor,29,0,12,2022-05-06
+378,My Universe,"Coldplay, BTS",2,1061966512,105,Major,1,0,14,2021-09-24
+379,Devil Don���,Morgan Wallen,1,32526947,125,Major,38,0,9,2023-03-03
+380,LLYLM,ROSAL�,1,124988687,170,Minor,13,0,19,2023-01-27
+381,I'm Not Here To Make Friends,"Sam Smith, Calvin Harris, Jessie Reyez",3,103787664,115,Major,17,0,41,2023-01-27
+382,TRUSTFALL,P!nk,1,134255790,122,Major,0,0,15,2023-01-27
+383,ANTIFRAGILE,LE SSERAFIM,1,301051721,105,Minor,8,0,11,2022-10-17
+384,Boy's a liar,PinkPantheress,1,156338624,133,Major,25,0,21,2022-11-30
+385,VIBE (feat. Jimin of BTS),"TAEYANG, Jimin",2,152850295,100,Major,7,0,26,2023-01-13
+386,Shirt,SZA,1,309653982,120,Minor,15,3,9,2022-10-28
+387,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,1,297328960,177,Major,90,0,13,2022-10-28
+388,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,1,332506354,142,Minor,15,0,9,2022-09-22
+389,"Sex, Drugs, Etc.",Beach Weather,1,480507035,144,Minor,1,1,52,2016-11-04
+390,Boy With Luv (feat. Halsey),"Halsey, BTS",2,1065580332,120,Minor,9,0,19,2019-04-12
+391,"Hey, Mickey!",Baby Tate,1,122763672,135,Major,55,0,15,2016-09-27
+392,Calm Down,R��,1,445763624,107,Major,38,0,12,2022-02-09
+393,Jhoome Jo Pathaan,"Arijit Singh, Vishal Dadlani, Sukriti Kakar, Vishal-Shekhar, Shekhar Ravjiani, Kumaar",6,1365184,105,Major,10,0,33,2022-12-22
+394,Escapism. - Sped Up,"RAYE, 070 Shake",2,184308753,108,Minor,9,0,9,2022-11-25
+395,Space Song,Beach House,1,789753877,147,Minor,22,13,14,2015-01-01
+396,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],"BTS, Jung Kook, FIFA Sound",3,323358833,115,Major,16,0,44,2022-11-20
+397,Te Felicito,"Shakira, Rauw Alejandro",2,606361689,174,Major,23,0,8,2022-04-21
+398,Mu��,"Steve Aoki, Tini, La Joaqui",3,120972253,90,Minor,3,0,31,2023-01-12
+399,TV,Billie Eilish,1,338564981,141,Minor,84,1,14,2022-07-21
+400,I'm Not The Only One,Sam Smith,1,1606986953,82,Major,56,0,8,2014-01-01
+401,Heather,Conan Gray,1,1301799902,92,Major,62,0,32,2020-03-20
+402,"Besharam Rang (From ""Pathaan"")","Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Kumaar, Vishal Dadlani, Shekhar Ravjiani",6,140187018,116,Minor,6,0,15,2022-12-12
+403,One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",2,1897517891,124,Minor,4,0,8,2017-06-02
+404,Sugar Rush Ride,TOMORROW X TOGETHER,1,107642809,125,Minor,1,0,17,2023-01-27
+405,Pink Venom,BLACKPINK,1,551305895,90,Major,2,0,27,2022-08-19
+406,WAIT FOR U (feat. Drake & Tems),"Drake, Future, Tems",3,556585270,83,Major,31,0,7,2022-04-27
+407,Don't Start Now,Dua Lipa,1,2303033973,124,Minor,1,0,10,2019-10-31
+408,After Dark,Mr.Kitty,1,646886885,140,Major,7,41,8,2014-08-08
+409,Eu Gosto Assim - Ao Vivo,"Gustavo Mioto, Mari Fernandez",2,222612678,154,Major,15,0,72,2022-09-16
+410,INDUSTRY BABY (feat. Jack Harlow),"Jack Harlow, Lil Nas X",2,1814349763,150,Minor,2,0,5,2021-07-23
+411,MIDDLE OF THE NIGHT,Elley Duh�,1,872137015,186,Minor,2,0,12,2020-01-10
+412,Atlantis,Seafret,1,571386359,166,Minor,5,0,12,2015-04-22
+413,PUNTO 40,"Baby Rasta, Rauw Alejandro",2,304079786,107,Major,0,4,31,2022-09-22
+414,Evoque Prata,"DJ Escobar, MC MENOR SG, MC MENOR HR",3,174006928,87,Major,31,0,28,2022-09-09
+415,How Do I Say Goodbye,Dean Lewis,1,284785823,82,Major,21,0,7,2022-08-05
+416,Blind,SZA,1,163284000,114,Minor,91,0,21,2022-12-09
+417,Die For You,Joji,1,246390068,148,Major,38,13,29,2022-11-04
+418,Doja,Central Cee,1,482257456,140,Major,38,0,40,2022-07-20
+419,Gatita,Bellakath,1,168684524,101,Major,15,24,33,2022-10-03
+420,Rumble,"Skrillex, Flowdan, Fred again..",3,78489819,140,Minor,5,23,6,2022-01-17
+421,Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],"Travis Scott, 21 Savage, Metro Boomin",3,195516622,88,Minor,19,0,18,2022-12-02
+422,Yonaguni,Bad Bunny,1,1260594497,180,Major,28,0,14,2021-06-04
+423,Super Freaky Girl,Nicki Minaj,1,428685680,133,Major,6,0,31,2022-08-12
+424,Running Up That Hill (A Deal With God),Kate Bush,1,1024858327,108,Minor,72,0,6,1985-09-16
+425,Dream On,Aerosmith,1,838586769,80,Minor,39,0,23,1973-01-05
+426,Limbo,Freddie Dredd,1,199386237,75,Minor,3,6,11,2022-08-11
+427,Where Are You Now,"Lost Frequencies, Calum Scott",2,972509632,121,Minor,52,0,17,2021-07-30
+428,WORTH NOTHING,"Twisted, Oliver Tree",2,213438580,140,Minor,18,0,20,2022-09-28
+429,Bad Habits,Ed Sheeran,1,1555511105,126,Minor,5,0,36,2020-09-03
+430,KICK BACK,Kenshi Yonezu,1,210038833,102,Major,0,0,9,2022-10-12
+431,Evergreen (You Didn���t Deserve Me A,Omar Apollo,1,227918678,82,Major,60,1,11,2022-04-08
+432,Good Days,SZA,1,826623384,121,Minor,23,0,72,2020-12-24
+433,Levitating (feat. DaBaby),"Dua Lipa, DaBaby",2,1802514301,103,Minor,1,0,7,2020-03-27
+434,Woman,Doja Cat,1,1329090101,108,Minor,9,0,12,2021-06-25
+435,Shut up My Moms Calling - (Sped Up),Hotel Ugly,1,181831132,85,Minor,31,0,12,2022-09-14
+436,Ferrari,"James Hype, Miggy Dela Rosa",2,462791599,125,Minor,1,0,5,2022-03-14
+437,"You're On Your Own, Kid",Taylor Swift,1,348647203,120,Major,41,0,13,2022-10-21
+438,"Kesariya (From ""Brahmastra"")","Pritam, Arijit Singh, Amitabh Bhattacharya",3,366599607,94,Major,57,0,10,2022-07-17
+439,Agudo M��gi,"Styrx, utku INC, Thezth",3,90598517,130,Minor,22,4,7,1930-01-01
+440,Payphone,"Maroon 5, Wiz Khalifa",2,1479264469,110,Major,2,0,29,2012-01-01
+441,All I Want for Christmas Is You,Mariah Carey,1,1449779435,150,Major,16,0,7,1994-10-28
+442,Last Christmas,Wham!,1,1159176109,107,Minor,28,0,46,1984-01-01
+443,Rockin' Around The Christmas Tree,Brenda Lee,1,769213520,140,Major,71,0,45,1958-01-01
+444,Jingle Bell Rock,Bobby Helms,1,741301563,119,Major,84,0,6,1957-01-01
+445,It's Beginning To Look A Lot Like Christmas,Michael Bubl�,1,807561936,93,Major,91,0,29,2011-10-14
+446,Santa Tell Me,Ariana Grande,1,834129063,133,Major,5,0,30,2013-12-13
+447,It's the Most Wonderful Time of the Year,Andy Williams,1,663832097,202,Major,77,0,12,1963-10-14
+448,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,1,446390129,134,Major,91,0,18,1959-11-16
+449,Snowman,Sia,1,690104769,105,Major,48,0,9,2017-01-01
+450,Underneath the Tree,Kelly Clarkson,1,485285717,160,Major,0,0,21,2013-10-25
+451,Feliz Navidad,Jos�� Felic,1,520034544,148,Major,47,0,34,1970-11-01
+452,Holly Jolly Christmas,Michael Bubl�,1,476244795,151,Major,87,0,9,2011-10-14
+453,Mistletoe,Justin Bieber,1,629173063,162,Minor,51,0,9,2011-01-01
+454,Sleigh Ride,The Ronettes,1,404664135,92,Major,40,0,32,1963-11-22
+455,Seek & Destroy,SZA,1,98709329,152,Major,44,18,21,2022-12-09
+456,Love Language,SZA,1,110849052,65,Minor,85,0,13,2022-12-09
+457,Happy Xmas (War Is Over),"John Lennon, The Harlem Community Choir, The Plastic Ono Band, Yoko Ono",4,460492795,147,Major,32,0,77,1971-12-01
+458,Used (feat. Don Toliver),"SZA, Don Toliver",2,94005786,150,Minor,53,0,32,2022-12-08
+459,A Holly Jolly Christmas - Single Version,Burl Ives,1,395591396,140,Major,64,0,15,1952-01-01
+460,The Christmas Song (Merry Christmas To You) - Remastered 1999,Nat King Cole,1,389771964,139,Major,84,0,11,1946-11-01
+461,Wonderful Christmastime - Edited Version / Remastered 2011,Paul McCartney,1,403939487,95,Major,36,0,9,1979-11-16
+462,Do They Know It's Christmas? - 1984 Version,Band Aid,1,481697415,115,Major,0,2,27,1984-11-25
+463,Ghost in the Machine (feat. Phoebe Bridgers),"SZA, Phoebe Bridgers",2,110073250,125,Major,84,3,11,2022-12-09
+464,Special,SZA,1,88092256,76,Major,78,0,11,2022-12-09
+465,Merry Christmas Everyone,Shakin' Stevens,1,351636786,101,Minor,14,0,13,1984-01-01
+466,Let It Snow! Let It Snow! Let It Snow!,"Frank Sinatra, B. Swanson Quartet",2,473248298,143,Major,88,0,34,1950-01-01
+467,SOS,SZA,1,73981293,119,Minor,67,0,9,2022-12-09
+468,Open Arms (feat. Travis Scott),"SZA, Travis Scott",2,155653938,78,Major,76,1,15,2022-12-08
+469,White Christmas,"Bing Crosby, John Scott Trotter & His Orchestra, Ken Darby Singers",3,395591396,96,Major,91,0,40,1942-01-01
+470,Driving Home for Christmas - 2019 Remaster,Chris Rea,1,429504768,180,Major,36,0,18,1986-01-01
+471,Christmas (Baby Please Come Home),Darlene Love,1,242767149,126,Major,39,0,8,1963-11-22
+472,Gone Girl,SZA,1,65362788,150,Major,57,0,15,2022-12-09
+473,F2F,SZA,1,67540165,90,Major,9,0,34,2022-12-09
+474,Notice Me,SZA,1,62019074,160,Major,28,0,11,2022-12-09
+475,Merry Christmas,"Ed Sheeran, Elton John",2,135723538,114,Major,24,0,10,2017-11-10
+476,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),"Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",3,295998468,113,Major,77,0,15,1958-01-01
+477,My Only Wish (This Year),Britney Spears,1,261116938,147,Major,17,0,19,2000-11-07
+478,Antidepresan,"Mabel Matiz, Mert Demir",2,136689549,100,Minor,3,0,10,2022-11-04
+479,Wild Flower (with youjeen),RM,1,135611421,155,Major,3,0,12,2022-12-02
+480,I Hate U,SZA,1,356709897,107,Minor,51,0,11,2021-12-03
+481,Raindrops (Insane) [with Travis Scott],"Travis Scott, Metro Boomin",2,110649992,112,Major,9,0,38,2022-12-02
+482,SPIT IN MY FACE!,ThxSoMch,1,301869854,166,Major,9,20,11,2022-10-31
+483,Deck The Hall - Remastered 1999,Nat King Cole,1,127027715,107,Minor,81,0,8,1959-01-01
+484,Smoking on my Ex Pack,SZA,1,57144458,81,Major,24,0,22,2022-12-09
+485,Conceited,SZA,1,56870689,150,Major,5,0,11,2022-12-09
+486,Snow On The Beach (feat. Lana Del Rey),"Taylor Swift, Lana Del Rey",2,323437194,110,Major,69,0,12,2022-10-21
+487,Maroon,Taylor Swift,1,317726339,108,Major,6,0,10,2022-10-21
+488,Tubar��o Te,"Dj LK da Esc��cia, Tchakabum, mc jhenny, M",4,116144341,130,Minor,30,0,7,2022-09-28
+489,Bejeweled,Taylor Swift,1,328207708,164,Major,6,0,9,2022-10-21
+490,Tarot,"Bad Bunny, Jhay Cortez",2,608228647,114,Minor,2,0,66,2022-05-06
+491,You Make It Feel Like Christmas (feat. Blake Shelton),"Gwen Stefani, Blake Shelton",2,180577478,93,Major,1,0,12,2005-09-20
+492,Desesperados,"Chencho Corleone, Rauw Alejandro",2,809306935,90,Minor,36,0,9,2021-06-25
+493,Too Late,SZA,1,49262961,128,Major,78,0,39,2022-12-08
+494,Party,"Bad Bunny, Rauw Alejandro",2,614555082,97,Major,2,0,24,2022-05-06
+495,Run Rudolph Run - Single Version,Chuck Berry,1,245350949,152,Minor,79,0,7,1958-01-01
+496,Jingle Bells - Remastered 1999,Frank Sinatra,1,178660459,175,Major,73,0,10,1957-01-01
+497,Far,SZA,1,51641685,116,Major,67,0,16,2022-12-09
+498,On Time (with John Legend),"John Legend, Metro Boomin",2,78139948,80,Minor,76,0,44,2022-12-02
+499,GAT��,"Maldy, Karol G",2,322336177,93,Minor,26,0,21,2022-08-25
+500,���abcdefu,Gayle,1,1007612429,122,Major,30,0,37,2021-08-13
+501,Sacrifice,The Weeknd,1,326792833,122,Major,3,0,7,2022-01-07
+502,Is There Someone Else?,The Weeknd,1,391251368,135,Minor,4,0,16,2022-01-07
+503,Fingers Crossed,"Lauren Spencer Smith, Lauren Spencer Smith, Lauren Spencer Smith",3,349585590,109,Major,62,0,31,2022-01-05
+504,Out of Time,The Weeknd,1,339659802,93,Minor,27,0,32,2022-01-07
+505,Do It To It,"Cherish, ACRAZE",2,674772936,125,Minor,2,5,7,2021-08-20
+506,We Don't Talk About Bruno,"Adassa, Mauro Castillo, Stephanie Beatriz, Encanto - Cast, Rhenzy Feliz, Diane Guerrero, Carolina Gaitan",7,432719968,206,Minor,36,0,11,2021-11-19
+507,Pepas,Farruko,1,1309887447,130,Major,1,0,13,2021-06-24
+508,How Do I Make You Love Me?,The Weeknd,1,119238316,121,Minor,2,0,9,2022-01-07
+509,Gasoline,The Weeknd,1,116903579,123,Minor,0,0,21,2022-01-07
+510,Infinity,Jaymes Young,1,888046992,122,Minor,15,0,30,2017-06-23
+511,Less Than Zero,The Weeknd,1,200660871,143,Major,0,0,8,2022-01-07
+512,Take My Breath,The Weeknd,1,130655803,121,Minor,1,0,26,2021-08-06
+513,good 4 u,Olivia Rodrigo,1,1887039593,166,Minor,28,0,11,2021-05-14
+514,"Here We Go��� Again (feat. Tyler, the Cr","The Weeknd, Tyler, The Creator",3,88103848,135,Major,36,0,60,2022-01-07
+515,Best Friends,The Weeknd,1,101114984,87,Minor,44,0,35,2022-01-07
+516,Kiss Me More (feat. SZA),"SZA, Doja Cat",2,1575467011,111,Major,30,0,13,2021-04-09
+517,I Heard You're Married (feat. Lil Wayne),"The Weeknd, Lil Wayne",2,91656026,110,Major,10,0,31,2022-01-07
+518,Need To Know,Doja Cat,1,1042568408,130,Major,30,0,9,2021-06-11
+519,MONTERO (Call Me By Your Name),Lil Nas X,1,1735441776,179,Minor,30,0,38,2020-09-18
+520,love nwantiti (ah ah ah),Ckay,1,726837877,93,Minor,61,0,13,2019-07-26
+521,Dawn FM,The Weeknd,1,53933526,78,Minor,62,0,49,2022-01-07
+522,Surface Pressure,Jessica Darrow,1,267758538,180,Major,2,0,4,2021-11-19
+523,Starry Eyes,The Weeknd,1,74601456,86,Minor,50,0,19,2022-01-07
+524,THATS WHAT I WANT,Lil Nas X,1,920797189,88,Minor,1,0,5,2021-09-17
+525,One Right Now (with The Weeknd),"The Weeknd, Post Malone",2,539595276,97,Major,4,0,7,2021-11-05
+526,Beggin,M��ne,1,1367810478,134,Minor,13,0,36,2017-12-08
+527,Mon Amour - Remix,"Aitana, zzoilo",2,578207856,116,Major,12,0,10,2020-09-21
+528,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),"Julieta Venegas, Bad Bunny, Tainy",3,775542072,170,Minor,9,0,9,2021-10-05
+529,MONEY,Lisa,1,863625566,140,Minor,16,0,14,2021-09-10
+530,The Motto,"Ti��sto, Ava",2,656013912,118,Minor,3,0,9,2021-11-04
+531,Happier Than Ever,Billie Eilish,1,1056760045,65,Major,76,0,14,2021-07-30
+532,Moth To A Flame (with The Weeknd),"The Weeknd, Swedish House Mafia",2,611994237,120,Minor,0,0,11,2021-10-22
+533,traitor,"Juan Cruz Toledo, Huilen Toledo",2,1230855859,176,Major,68,0,12,2021-05-21
+534,Toxic,BoyWithUke,1,582981380,180,Minor,84,0,46,2021-09-10
+535,drivers license,Olivia Rodrigo,1,1858144199,144,Major,76,0,10,2021-01-08
+536,Malvad��,"Xam��, Gustah, Neo B",3,240684449,133,Minor,38,0,14,2021-11-30
+537,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,1,583687007,93,Major,28,0,9,2021-11-12
+538,Don���t Break My,The Weeknd,1,63803529,122,Major,34,0,23,2022-01-07
+539,Oh My God,Adele,1,466214729,88,Major,9,0,3,2021-11-19
+540,Entre Nosotros (Remix) [con Nicki Nicole],"Lit Killah, Maria Becerra, Tiago pzk, NICKI NICOLE",4,236940480,170,Minor,40,0,37,2022-01-05
+541,A Tale By Quincy,The Weeknd,1,41924466,94,Minor,71,0,10,2022-01-07
+542,I AM WOMAN,Emmy Meli,1,225259194,170,Major,12,0,13,2021-11-18
+543,Medallo,"Justin Quiles, Lenny Tav��rez, BL",3,393230256,90,Minor,57,0,66,2021-10-27
+544,It'll Be Okay,Shawn Mendes,1,287201015,78,Major,62,0,9,2021-12-01
+545,Softcore,The Neighbourhood,1,599770206,94,Major,5,0,15,2018-03-09
+546,Super Gremlin,Kodak Black,1,342779426,73,Major,0,0,36,2021-10-30
+547,Volv�,"Aventura, Bad Bunny",2,673801126,176,Major,42,0,7,2021-08-03
+548,Todo De Ti,Rauw Alejandro,1,1168642797,128,Minor,40,1,10,2020-11-02
+549,Love Nwantiti - Remix,"Ckay, AX'EL, Dj Yo!",3,540539717,120,Major,44,9,5,2019-08-30
+550,Smokin Out The Window,"Bruno Mars, Anderson .Paak, Silk Sonic",3,383550148,82,Major,6,0,35,2021-11-05
+551,Meet Me At Our Spot,"THE ANXIETY, Willow, Tyler Cole",3,530511203,95,Major,2,0,9,2020-03-13
+552,Every Angel is Terrifying,The Weeknd,1,37307967,118,Major,11,0,4,2022-01-07
+553,Tacones Rojos,Sebastian Yatra,1,510876816,123,Minor,8,0,14,2021-10-22
+554,Peaches (feat. Daniel Caesar & Giveon),"Justin Bieber, Daniel Caesar, Giveon",3,1445941661,90,Major,38,0,42,2021-03-19
+555,Dakiti,"Bad Bunny, Jhay Cortez",2,1763363713,110,Minor,40,0,11,2020-10-30
+556,"Tiago PZK: Bzrp Music Sessions, Vol. 48","Bizarrap, Tiago pzk",2,374191487,96,Minor,47,0,10,2021-12-29
+557,L���,Stromae,1,108809090,88,Minor,35,0,23,2022-01-09
+558,Nost��l,"Chris Brown, Rvssian, Rauw Alejandro",3,436695353,98,Minor,17,0,24,2021-09-08
+559,Better Days (NEIKED x Mae Muller x Polo G),"NEIKED, Mae Muller, Polo G",3,421040617,110,Minor,0,0,14,2021-09-24
+560,Life Goes On,Oliver Tree,1,501541661,80,Major,19,0,12,2020-07-17
+561,Sad Girlz Luv Money Remix (feat. Kali Uchis),"Kali Uchis, Amaarae, Moliy",3,354065229,110,Minor,43,0,11,2021-09-16
+562,Butter,BTS,1,1143647827,110,Major,0,0,6,2021-05-21
+563,pushin P (feat. Young Thug),"Young Thug, Future, Gunna",3,311395144,78,Minor,1,1,13,2022-01-07
+564,You Right,"Doja Cat, The Weeknd",2,672656250,129,Major,2,0,8,2021-06-24
+565,deja vu,Olivia Rodrigo,1,1256880657,181,Major,61,0,42,2021-04-01
+566,Dynamite,BTS,1,1692897992,114,Minor,1,0,9,2020-08-21
+567,TO THE MOON,Jnr Choi,1,245095641,144,Major,5,1,11,2021-11-05
+568,Lost in the Fire,"The Weeknd, Gesaffelstein",2,686734357,101,Major,9,0,12,2019-01-11
+569,Salimo de Noche,"Trueno, Tiago pzk",2,261414174,84,Major,29,0,12,2021-10-21
+570,Volando - Remix,"Sech, Bad Bunny, Mora",3,610045621,154,Major,21,0,11,2021-07-08
+571,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",3,1115880852,148,Major,18,0,9,2021-03-05
+572,Knife Talk (with 21 Savage ft. Project Pat),"Drake, Project Pat, 21 Savage",3,594482982,146,Minor,13,0,7,2021-09-03
+573,Don't Be Shy,"Ti��sto, Kar",2,566954746,120,Minor,20,0,26,2021-08-01
+574,Love Grows (Where My Rosemary Goes),Edison Lighthouse,1,222253865,110,Major,7,0,17,1970-01-01
+575,LA FAMA (with The Weeknd),"The Weeknd, ROSAL�",2,374706940,136,Minor,95,0,13,2021-11-11
+576,The Family Madrigal,"Olga Merediz, Stephanie Beatriz, Encanto - Cast",3,184937148,141,Major,12,0,6,2021-11-19
+577,Phantom Regret by Jim,The Weeknd,1,31959571,108,Minor,75,30,14,2022-01-07
+578,Dos Oruguitas,Sebastian Yatra,1,167076418,94,Major,76,0,9,2021-11-19
+579,Freaks,Surf Curse,1,824420218,180,Major,0,63,5,2015-05-10
+580,Acapulco,Jason Derulo,1,363467642,122,Major,5,0,16,2021-09-01
+581,Daddy Issues,The Neighbourhood,1,1127468248,85,Major,7,15,12,2015-10-30
+582,thought i was playing,"21 Savage, Gunna",2,60680939,148,Major,0,0,7,2022-01-07
+583,ELEVEN,IVE,1,247737946,120,Major,6,0,5,2021-12-01
+584,Mood (feat. Iann Dior),"24kgoldn, Iann Dior",2,1699402402,91,Minor,22,0,27,2020-07-24
+585,What Else Can I Do?,"Stephanie Beatriz, Diane Guerrero",2,154797871,120,Major,26,0,10,2021-11-19
+586,DANCE CRIP,Trueno,1,198883004,106,Major,11,0,8,2021-11-17
+587,Miserable Man,David Kushner,1,124407432,110,Major,93,0,29,2022-01-07
+588,happier,Olivia Rodrigo,1,850608354,169,Major,81,0,8,2021-05-21
+589,Praise God,Kanye West,1,376333030,118,Major,1,0,26,2021-08-29
+590,Get Into It (Yuh),Doja Cat,1,516784627,92,Minor,32,0,9,2021-06-25
+591,Before You Go,Lewis Capaldi,1,1608045237,112,Major,63,0,9,2019-11-01
+592,Sky,Playboi Carti,1,506778838,140,Major,26,0,13,2020-12-25
+593,Rolling in the Deep,Adele,1,1472799873,105,Major,13,0,5,2010-11-29
+594,Sobrio,Maluma,1,513643924,178,Major,14,0,15,2021-07-08
+595,Peru,"Ed Sheeran, Fireboy DML",2,261286503,108,Minor,57,0,8,2021-12-23
+596,favorite crime,Olivia Rodrigo,1,783706581,173,Major,86,0,34,2021-05-21
+597,Thunder,"Prezioso, Gabry Ponte, LUM!X",3,422691058,101,Major,3,0,34,2021-05-07
+598,The Business,Ti��,1,1062345656,120,Minor,41,2,11,2020-01-01
+599,positions,Ariana Grande,1,1252563873,144,Major,44,0,9,2020-10-23
+600,I WANNA BE YOUR SLAVE,M��ne,1,851070493,133,Major,0,0,18,2021-03-19
+601,Vai L�� Em Casa,"Mar��lia Mendon��a, George Henrique &",2,263894529,158,Minor,53,0,97,2021-10-22
+602,The Feels,TWICE,1,345903614,120,Major,9,0,8,2021-10-01
+603,HEARTBREAK ANNIVERSARY,Giveon,1,951637566,129,Major,56,0,13,2020-02-21
+604,No Lie,"Sean Paul, Dua Lipa",2,956865266,102,Major,5,0,26,2016-11-18
+605,OUT OUT (feat. Charli XCX & Saweetie),"Charli XCX, Jax Jones, Joel Corry, Saweetie",4,427486004,124,Minor,2,0,5,2021-08-13
+606,Pope Is a Rockstar,SALES,1,156658366,90,Minor,85,24,11,2016-04-20
+607,2055,Sleepy hallow,1,624515457,161,Minor,46,0,12,2021-04-14
+608,Bored,Billie Eilish,1,777765388,120,Major,90,0,8,2017-03-30
+609,Happier Than Ever - Edit,Billie Eilish,1,412795151,81,Major,7,0,23,2021-07-28
+610,Astronaut In The Ocean,Masked Wolf,1,1138474110,150,Minor,18,0,15,2019-01-01
+611,Ley Seca,"Anuel Aa, Jhay Cortez",2,355219175,105,Major,10,0,13,2021-09-02
+612,Every Summertime,NIKI,1,290228626,79,Major,38,0,6,2021-08-10
+613,Talking To The Moon,Bruno Mars,1,1062956628,146,Minor,51,0,11,2010-10-04
+614,you broke me first,Tate McRae,1,1180094974,124,Major,79,0,9,2020-04-17
+615,The Nights,Avicii,1,1456081449,126,Major,2,0,24,2014-01-01
+616,Take My Breath,The Weeknd,1,432702334,121,Major,2,0,11,2021-08-06
+617,Way 2 Sexy (with Future & Young Thug),"Drake, Future, Young Thug",3,489945871,136,Minor,0,0,32,2021-09-03
+618,C��,Rauw Alejandro,1,465959382,102,Minor,58,0,11,2021-06-25
+619,Enemy - from the series Arcane League of Legends,"Imagine Dragons, League of Legends, Arcane",3,1223481149,77,Major,23,0,41,2021-10-27
+620,Dance Monkey,Tones and I,1,2864791672,98,Minor,69,0,18,2019-05-10
+621,Lucid Dreams,Juice WRLD,1,2288695111,84,Minor,38,0,33,2017-06-15
+622,Qu�� M��,"J Balvin, Maria Becerra",2,720825549,102,Major,3,0,17,2021-01-28
+623,All of Me,John Legend,1,2086124197,120,Major,92,0,13,2013-08-01
+624,Smells Like Teen Spirit - Remastered 2021,Nirvana,1,1690192927,117,Major,0,0,11,1991-09-10
+625,Arcade,Duncan Laurence,1,991336132,72,Minor,82,0,14,2019-03-07
+626,Fair Trade (with Travis Scott),"Drake, Travis Scott",2,593917618,168,Major,5,0,22,2021-09-03
+627,Bar,"Tini, L-Gante",2,200972675,94,Major,13,0,33,2021-11-11
+628,The Rumbling (TV Size),SiM,1,71014967,145,Major,0,0,26,2022-01-10
+629,family ties (with Kendrick Lamar),"Kendrick Lamar, Baby Keem",2,560222750,134,Major,1,0,23,2021-08-27
+630,Mr. Brightside,The Killers,1,1806617704,148,Major,0,0,10,2003-09-23
+631,Blessed-Cursed,ENHYPEN,1,77337771,127,Minor,9,0,60,2022-01-10
+632,AM Remix,"J Balvin, Nio Garcia, Bad Bunny",3,528544703,172,Minor,11,0,8,2021-06-24
+633,Streets,Doja Cat,1,865640097,90,Major,21,4,34,2019-11-07
+634,Shallow,"Lady Gaga, Bradley Cooper",2,2159346687,96,Major,38,0,26,2018-09-27
+635,Polaroid Love,ENHYPEN,1,211372494,138,Minor,46,0,36,2022-01-10
+636,Leave Before You Love Me (with Jonas Brothers),"Marshmello, Jonas Brothers",2,651732901,120,Major,0,0,13,2021-04-28
+637,Permission to Dance,BTS,1,608334048,125,Major,1,0,34,2021-07-09
+638,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,"Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine",4,863756573,123,Major,1,0,30,2021-01-15
+639,RAPSTAR,Polo G,1,797402345,81,Major,41,0,13,2021-04-09
+640,Till I Collapse,"Eminem, Nate Dogg",2,1695712020,171,Major,7,0,8,2002-05-26
+641,Memories,Maroon 5,1,1759567999,91,Major,84,0,8,2019-09-20
+642,Se Le Ve,"Arcangel, De La Ghetto, Justin Quiles, Lenny Tav��rez, Sech, Dalex, Dimelo Flow, Rich Music",8,223319934,84,Minor,10,0,14,2021-08-12
+643,25k jacket (feat. Lil Baby),"Gunna, Lil Baby",2,54937991,115,Minor,16,0,13,2022-01-07
+644,When I���m Gone (with Katy,"Katy Perry, Alesso",2,226897599,125,Major,4,0,49,2021-12-29
+645,Esque��a-Me Se For C,"Mar��lia Mendon��a, Maiara &",2,258316038,122,Minor,28,0,13,2021-10-14
+646,Mi��n,"Tini, Maria Becerra",2,596152090,92,Major,16,0,29,2021-04-29
+647,S��,"Anuel Aa, Myke Towers, Jhay Cortez",3,177129919,90,Minor,17,0,11,2021-11-18
+648,MAMIII,"Karol G, Becky G",2,716591492,94,Minor,9,0,14,2022-02-10
+649,Still D.R.E.,"Dr. Dre, Snoop Dogg",2,1210599487,93,Major,18,0,6,1999-01-01
+650,Stay Alive (Prod. SUGA of BTS),Jung Kook,1,246376690,130,Minor,30,0,10,2022-02-11
+651,Boyfriend,Dove Cameron,1,496311364,180,Minor,23,0,19,2022-02-11
+652,The Joker And The Queen (feat. Taylor Swift),"Ed Sheeran, Taylor Swift",2,146789379,134,Major,92,0,28,2022-02-11
+653,The Next Episode,"Dr. Dre, Snoop Dogg",2,843309044,95,Minor,3,0,8,1999-01-01
+654,Light Switch,Charlie Puth,1,500340342,184,Major,11,0,9,2022-01-19
+655,City of Gods,"Kanye West, Alicia Keys, Fivio Foreign",3,107255472,147,Minor,10,0,32,2022-02-11
+656,Brividi,"Mahmood, Blanco",2,135079152,123,Major,40,0,26,2022-02-02
+657,Lost,Frank Ocean,1,822239726,123,Minor,3,0,17,2012-01-01
+658,In Da Club,50 Cent,1,1202722675,90,Minor,26,0,7,2002-01-01
+659,she's all i wanna be,Tate McRae,1,343197054,160,Minor,1,0,12,2022-02-04
+660,Ginseng Strip 2002,Yung Lean,1,240769997,115,Major,8,0,48,2013-08-16
+661,All For Us - from the HBO Original Series Euphoria,"Labrinth, Zendaya",2,426204830,141,Major,2,0,34,2019-08-04
+662,Notion,The Rare Occasions,1,421135627,160,Major,7,0,8,2016-08-05
+663,Formula,Labrinth,1,554875730,145,Major,4,6,15,2019-10-04
+664,Mount Everest,Labrinth,1,467727006,89,Minor,23,8,8,2019-06-21
+665,Excuses,"Intense, AP Dhillon, Gurinder Gill",3,327498031,95,Minor,8,0,15,2020-07-24
+666,Cigarettes,Juice WRLD,1,185408548,160,Major,3,0,38,2021-12-10
+667,"Cay�� La Noche (feat. Cruz Cafun��, Abhir Hathi, Bejo, EL IMA)","Quevedo, La Pantera, Juseph, Cruz Cafun��, B��jo, Abhir Hathi",7,245400167,174,Minor,44,0,7,2022-01-14
+668,California Love - Original Version (Explicit),"Dr. Dre, 2Pac, Roger",3,579395142,92,Major,3,0,38,1995-12-28
+669,Forgot About Dre,"Eminem, Dr. Dre",2,675039469,134,Major,9,0,17,1999-01-01
+670,Down Under (feat. Colin Hay),"Luude, Colin Hay",2,252871192,172,Minor,1,0,28,2021-11-19
+671,Mujeriego,Ryan Castro,1,231996128,80,Major,6,0,8,2021-12-17
+672,HUMBLE.,Kendrick Lamar,1,1929770265,150,Minor,0,0,9,2017-03-30
+673,Stan,"Eminem, Dido",2,918915401,80,Minor,4,0,45,1999-11-21
+674,Contection,"GODZZ__-, Zakaria",2,1180896317,166,Minor,14,0,29,2020-01-16
+675,Swim,Chase Atlantic,1,498960285,120,Major,27,0,8,2017-10-04
+676,A Tu Merced,Bad Bunny,1,685071800,92,Major,17,0,11,2020-02-29
+677,Numb Little Bug,Em Beihold,1,258714692,85,Minor,30,0,26,2022-01-28
+678,212,"Mainstreet, Chefin",2,143139338,154,Minor,66,0,9,2022-01-15
+679,Problem�,"Alvaro Diaz, Rauw Alejandro",2,209768491,92,Minor,28,0,14,2021-10-22
+680,Bussin,"Nicki Minaj, Lil Baby",2,64714573,140,Major,6,0,13,2022-02-11
+681,Worst Day,Future,1,50746620,89,Major,11,0,10,2022-02-11
+682,Malvada,Z�� Fe,1,154119539,135,Minor,16,0,8,2022-01-28
+683,Hrs and Hrs,Muni Long,1,181328253,140,Minor,60,0,11,2021-11-19
+684,Alien Blues,Vundabar,1,370068639,82,Major,8,91,9,2015-07-24
+685,Thinking Out Loud,Ed Sheeran,1,2280566092,79,Major,47,0,18,2014-01-01
+686,Still Don't Know My Name,Labrinth,1,563902868,88,Major,47,27,21,2019-10-04
+687,Christmas Tree,V,1,317622165,139,Major,70,0,12,2021-12-24
+688,Mal Feito - Ao Vivo,"Mar��lia Mendon��a, Hugo & G",2,291709698,124,Minor,55,0,90,2022-01-14
+689,When I R.I.P.,Labrinth,1,203680270,80,Minor,73,0,9,2019-10-04
+690,Do We Have A Problem?,"Nicki Minaj, Lil Baby",2,81350745,120,Minor,47,0,12,2022-02-04
+691,Forever,Labrinth,1,282883169,80,Minor,92,72,11,2019-10-04
+692,Gospel (with Eminem),"Eminem, Dr. Dre",2,64787943,117,Major,11,0,24,2022-02-04
+693,Se��o,"Shawn Mendes, Camila Cabello",2,2484812918,117,Minor,4,0,8,2019-06-19
+694,NEW MAGIC WAND,"Tyler, The Creator",2,461437791,140,Minor,10,0,67,2019-05-16
+695,Adore You,Harry Styles,1,1439191367,99,Major,2,0,10,2019-12-06
+696,La Santa,"Daddy Yankee, Bad Bunny",2,759208783,93,Major,3,0,8,2020-02-29
+697,Something In The Way - Remastered 2021,Nirvana,1,368646862,106,Major,74,42,11,1991-09-24
+698,Sweetest Pie,"Dua Lipa, Megan Thee Stallion",2,299634472,124,Major,17,0,10,2022-03-11
+699,Bam Bam (feat. Ed Sheeran),"Camila Cabello, Ed Sheeran",2,756907987,95,Major,18,0,33,2022-03-04
+700,Una Noche en Medell�,Cris Mj,1,682475162,96,Minor,10,0,5,2022-01-21
+701,Envolver,Anitta,1,546191065,92,Minor,15,0,9,2021-11-11
+702,Starlight,Dave,1,229473310,124,Major,35,0,10,2022-03-03
+703,Hati-Hati di Jalan,Tulus,1,202677468,72,Major,70,9,12,2022-03-03
+704,"I'm Tired - From ""Euphoria"" An Original HBO Series",Labrinth,1,121913181,71,Minor,19,0,30,2022-02-04
+705,DAN��A,"Mc Pedrinho, Pedro Sampaio",2,208166039,135,Minor,4,0,10,2022-02-01
+706,Yo Voy (feat. Daddy Yankee),Zion & Lennox,1,527033089,95,Major,4,0,5,2004-05-04
+707,"Residente: Bzrp Music Sessions, Vol. 49","Residente, Bizarrap",2,94616487,71,Minor,56,0,11,2022-03-03
+708,Jordan,Ryan Castro,1,394030335,180,Minor,6,0,10,2021-04-30
+709,Nail Tech,Jack Harlow,1,193443895,150,Minor,0,0,12,2022-02-18
+710,Chale,Eden Mu��,1,299648208,189,Major,40,0,7,2022-02-18
+711,DARARI,Treasure,1,182978249,85,Major,49,0,7,2022-02-15
+712,Ya No Somos Ni Seremos,Christian Nodal,1,319757142,140,Major,44,0,34,2022-02-18
+713,Thinking with My Dick,"Kevin Gates, Juicy J",2,109091573,81,Major,6,0,17,2013-07-16
+714,Freaky Deaky,"Tyga, Doja Cat",2,153240879,104,Minor,2,0,9,2022-02-25
+715,this is what falling in love feels like,JVKE,1,346127840,129,Major,62,0,8,2021-09-03
+716,La Zona,Bad Bunny,1,312622938,94,Minor,20,0,25,2020-02-29
+717,Bohemian Rhapsody - Remastered 2011,Queen,1,2197010679,71,Minor,27,0,30,1975-10-31
+718,Hope,XXXTENTACION,1,1200808494,146,Minor,66,0,15,2018-03-16
+719,Levitating,Dua Lipa,1,797196073,103,Minor,5,0,29,2020-03-27
+720,Wake Me Up - Radio Edit,Avicii,1,1970673297,124,Major,0,0,16,2013-01-01
+721,"jealousy, jealousy",Olivia Rodrigo,1,665765558,164,Minor,24,0,7,2021-05-21
+722,Mon��y so,YEAT,1,263779030,138,Major,12,0,10,2021-09-10
+723,Demasiadas Mujeres,C. Tangana,1,339473453,126,Minor,13,0,10,2020-10-08
+724,Something Just Like This,"The Chainsmokers, Coldplay",2,2204080728,103,Minor,3,0,17,2017-02-22
+725,Closer,"The Chainsmokers, Halsey",2,2591224264,95,Major,41,0,11,2016-05-31
+726,O.O,NMIXX,1,135444283,200,Minor,4,0,6,2022-02-22
+727,Somebody That I Used To Know,"Gotye, Kimbra",2,1457139296,129,Major,54,0,10,2011-01-01
+728,Tom's Diner,"AnnenMayKantereit, Giant Rooks",2,236872197,98,Minor,38,0,36,2019-06-28
+729,First Class,Jack Harlow,1,694525298,107,Major,3,0,11,2022-04-08
+730,Plan A,Paulo Londra,1,240661097,174,Major,5,0,7,2022-03-23
+731,Fuera del mercado,Danny Ocean,1,421365166,92,Major,32,0,13,2022-02-17
+732,X ��LTIMA,"Daddy Yankee, Bad Bunny",2,349746291,90,Major,9,0,11,2022-03-25
+733,When You're Gone,Shawn Mendes,1,255120451,147,Major,2,0,58,2022-03-31
+734,In My Head,Lil Tjay,1,190981339,143,Major,16,0,10,2022-04-01
+735,Wait a Minute!,Willow,1,924193303,101,Minor,3,0,10,2015-01-11
+736,LOVE DIVE,IVE,1,305771063,118,Minor,0,0,33,2022-04-05
+737,Pantysito,"Feid, Alejo, Robi",3,273005485,98,Minor,14,0,16,2022-03-18
+738,Chance,Paulo Londra,1,89566512,138,Minor,24,0,9,2022-04-06
+739,Cool for the Summer,Demi Lovato,1,677389855,114,Minor,1,0,8,2015-01-01
+740,psychofreak (feat. WILLOW),"Camila Cabello, Willow",2,75476209,180,Minor,34,0,9,2022-04-07
+741,Angel Baby,Troye Sivan,1,408843328,145,Major,1,0,13,2021-09-09
+742,Vampiro,"Matu��, Wiu, ",3,187772591,115,Minor,1,0,7,2022-01-30
+743,Si Quieren Frontear,"De La Ghetto, Duki, Quevedo",3,178512385,82,Major,13,0,21,2022-03-31
+744,Right On,Lil Baby,1,101780047,166,Major,2,0,10,2022-04-08
+745,Me Arrepent�,"Ak4:20, Cris Mj, Pailita",3,118381354,92,Major,29,0,60,2022-03-30
+746,That's Hilarious,Charlie Puth,1,146363130,108,Major,74,0,11,2022-04-08
+747,Soy El Unico,Yahritza Y Su Esencia,1,126443991,84,Minor,45,0,11,2022-03-25
+748,RUMBAT�,Daddy Yankee,1,157990698,95,Minor,6,0,35,2022-03-25
+749,sentaDONA (Remix) s2,"Lu��sa Sonza, MC Frog, Dj Gabriel do Borel, Davi K",4,176290831,135,Minor,25,0,13,2022-03-17
+750,Falling,Harry Styles,1,1023187129,110,Major,84,0,9,2019-12-13
+751,Sigue,"Ed Sheeran, J Balvin",2,106933107,88,Major,5,0,19,1996-11-24
+752,Fim de Semana no Rio,teto,1,139193812,119,Minor,12,0,10,2022-03-30
+753,MANIAC,Stray Kids,1,212234990,120,Major,15,0,7,2022-03-18
+754,There's Nothing Holdin' Me Back,Shawn Mendes,1,1714490998,122,Major,36,0,9,2016-09-23
+755,IDGAF (with blackbear),"Blackbear, BoyWithUke",2,197643795,98,Major,41,0,27,2022-03-18
+756,Golden,Harry Styles,1,807015863,140,Minor,21,0,13,2019-12-13
+757,Get Lucky - Radio Edit,"Pharrell Williams, Nile Rodgers, Daft Punk",3,933815613,116,Minor,4,0,10,2013-01-01
+758,Ain't Shit,Doja Cat,1,499710590,124,Major,51,0,35,2021-06-25
+759,"Nobody Like U - From ""Turning Red""","Jordan Fisher, Josh Levi, Finneas O'Connell, 4*TOWN (From Disney and Pixar���s Turning Red), Topher Ngo, Grayson Vill",6,120847157,105,Minor,13,0,9,2022-02-25
+760,Still Life,BIGBANG,1,53909146,118,Major,44,0,6,2022-04-05
+761,Photograph,Ed Sheeran,1,2236667932,108,Major,61,0,10,2014-06-20
+762,Love Yourself,Justin Bieber,1,2123309722,100,Major,84,0,28,2015-11-09
+763,N95,Kendrick Lamar,1,301242089,140,Minor,38,0,12,2022-05-13
+764,About Damn Time,Lizzo,1,723894473,109,Minor,10,0,34,2022-04-14
+765,Die Hard,"Kendrick Lamar, Blxst, Amanda Reifer",3,237351106,101,Minor,36,0,17,2022-05-13
+766,Despu��s de la P,Bad Bunny,1,461558540,78,Major,36,0,18,2022-05-06
+767,Un Ratito,Bad Bunny,1,417230415,93,Minor,31,0,12,2022-05-06
+768,United In Grief,Kendrick Lamar,1,156898322,87,Major,24,0,17,2022-05-13
+769,Father Time (feat. Sampha),"Kendrick Lamar, Sampha",2,127309180,153,Minor,19,0,11,2022-05-13
+770,Yo No Soy Celoso,Bad Bunny,1,313113297,142,Major,28,0,17,2022-05-06
+771,Rich Spirit,Kendrick Lamar,1,173702135,96,Minor,39,0,12,2022-05-13
+772,Cooped Up (with Roddy Ricch),"Post Malone, Roddy Ricch",2,271666301,125,Major,4,0,11,2022-05-12
+773,Me Fui de Vacaciones,Bad Bunny,1,305650299,85,Major,23,0,9,2022-05-06
+774,Silent Hill,"Kendrick Lamar, Kodak Black",2,123216717,140,Minor,46,0,14,2022-05-13
+775,La Corriente,"Tony Dize, Bad Bunny",2,479655659,196,Minor,23,0,22,2022-05-06
+776,Count Me Out,Kendrick Lamar,1,126191104,134,Major,69,0,14,2022-05-13
+777,Andrea,"Buscabulla, Bad Bunny",2,344055883,103,Minor,76,0,10,2022-05-06
+778,Dos Mil 16,Bad Bunny,1,338422004,130,Major,12,0,13,2022-05-06
+779,We Cry Together,"Kendrick Lamar, Taylour Paige",2,68895644,108,Major,31,0,8,2022-05-13
+780,Savior,"Kendrick Lamar, Sam Dew, Baby Keem",3,86176890,123,Major,53,0,32,2022-05-13
+781,Un Coco,Bad Bunny,1,403231558,152,Major,21,0,18,2022-05-06
+782,Otro Atardecer,"Bad Bunny, The Mar��",2,319546754,108,Major,59,0,7,2022-05-06
+783,Worldwide Steppers,Kendrick Lamar,1,61739839,72,Minor,76,0,8,2022-05-13
+784,Aguacero,Bad Bunny,1,283359161,121,Minor,42,0,35,2022-05-06
+785,Purple Hearts,"Kendrick Lamar, Ghostface Killah, Summer Walker",3,76831876,138,Minor,19,0,15,2022-05-13
+786,Un Verano Sin Ti,Bad Bunny,1,283332261,188,Minor,69,0,12,2022-05-06
+787,ULTRA SOLO,"Polima WestCoast, Pailita",2,307752576,110,Major,23,0,11,2022-02-14
+788,Ens����ame,Bad Bunny,1,279737940,105,Major,19,0,47,2022-05-06
+789,El Apag�,Bad Bunny,1,212351890,118,Major,5,0,9,2022-05-06
+790,Callaita,"Bad Bunny, Tainy",2,1304313953,176,Major,60,0,24,2019-05-31
+791,Dua Lipa,Jack Harlow,1,150500965,158,Major,0,10,11,2022-05-06
+792,Agosto,Bad Bunny,1,246127838,115,Minor,9,0,49,2022-05-06
+793,House Of Memories,Panic! At The Disco,1,582863434,110,Minor,0,0,5,2016-01-15
+794,Mr. Morale,"Kendrick Lamar, Tanna Leone",2,58687425,174,Major,30,0,34,2022-05-13
+795,That That (prod. & feat. SUGA of BTS),"PSY, Suga",2,212109195,130,Major,3,0,3,2022-04-29
+796,In The Stars,Benson Boone,1,382199619,78,Major,34,0,14,2022-04-29
+797,Rich - Interlude,Kendrick Lamar,1,41210087,104,Major,88,0,9,2022-05-13
+798,SUPERMODEL,M��ne,1,231657891,121,Major,0,0,12,2022-05-13
+799,Stefania (Kalush Orchestra),KALUSH,1,53729194,105,Major,14,0,12,2022-03-10
+800,Thousand Miles,The Kid Laroi,1,244741137,81,Major,9,0,9,2022-04-22
+801,Crown,Kendrick Lamar,1,42485571,170,Minor,80,0,11,2022-05-13
+802,Auntie Diaries,Kendrick Lamar,1,37778188,78,Major,76,1,48,2022-05-13
+803,PUFFIN ON ZOOTIEZ,Future,1,254218729,125,Major,6,0,13,2022-04-29
+804,Mirror,Kendrick Lamar,1,53603447,92,Minor,23,0,8,2022-05-13
+805,Beautiful Girl,Luciano,1,160035717,140,Minor,31,0,9,2022-04-22
+806,"Paulo Londra: Bzrp Music Sessions, Vol. 23","Bizarrap, Paulo Londra",2,164163229,96,Major,25,0,10,2022-04-25
+807,Savior - Interlude,Kendrick Lamar,1,37091576,118,Minor,84,0,19,2022-05-13
+808,Pasoori,"Shae Gill, Ali Sethi",2,284249832,92,Minor,7,0,6,2022-02-06
+809,Mother I Sober (feat. Beth Gibbons of Portishead),"Kendrick Lamar, Beth Gibbons",2,33381454,140,Minor,87,0,11,2022-05-13
+810,TUS L��GR,"Sech, Mora",2,184622518,174,Major,18,0,11,2022-04-01
+811,Where Did You Go?,"MNEK, Jax Jones",2,300983101,127,Major,19,0,29,2022-01-26
+812,I Tried to Tell Y'all,"Ugly Dray, Tesla Jnr",2,121077868,96,Major,62,0,11,2022-05-06
+813,Honest (feat. Don Toliver),"Justin Bieber, Don Toliver",2,106919680,150,Minor,13,0,11,2022-04-29
+814,ZOOM,Jessi,1,136996305,100,Major,1,0,13,2022-04-13
+815,SloMo,Chanel,1,65719930,105,Minor,13,0,9,2021-12-24
+816,FEARLESS,LE SSERAFIM,1,229497852,104,Major,5,0,13,2022-05-02
+817,10 Things I Hate About You,Leah Kate,1,185550869,154,Major,1,0,17,2022-03-23
+818,SPACE MAN,Sam Ryder,1,54682594,80,Major,18,0,10,2022-02-22
+819,With you,"HA SUNG WOON, Jimin",2,240580042,150,Major,64,0,13,2022-04-24
+820,Iris,The Goo Goo Dolls,1,1284942608,156,Minor,0,0,9,1998-03-31
+821,The Heart Part 5,Kendrick Lamar,1,71423324,98,Minor,18,0,6,2022-05-08
+822,San Lucas,Kevin Kaarl,1,244891912,92,Major,86,0,9,2019-11-07
+823,This Love (Taylor���s Ve,Taylor Swift,1,132171975,144,Major,32,0,7,2022-05-06
+824,Good Looking,Suki Waterhouse,1,184706613,150,Major,8,0,13,2017-10-20
+825,Flowers,Lauren Spencer Smith,1,184826429,138,Major,84,0,9,2021-08-09
+826,Yet To Come,BTS,1,302006641,172,Major,4,0,33,2022-06-10
+827,Run BTS,BTS,1,330881149,77,Major,2,0,4,2022-06-10
+828,Music For a Sushi Restaurant,Harry Styles,1,334733572,107,Major,26,6,11,2022-05-20
+829,Matilda,Harry Styles,1,366214458,114,Major,90,0,10,2022-05-20
+830,For Youth,BTS,1,114546317,117,Major,43,0,25,2022-06-10
+831,Daylight,Harry Styles,1,290833204,146,Major,48,0,18,2022-05-20
+832,Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,1,448500832,160,Minor,8,0,14,2022-05-06
+833,Cash In Cash Out,"Pharrell Williams, Tyler, The Creator, 21 Savage",4,136676504,120,Major,1,0,8,2022-06-10
+834,Potion (with Dua Lipa & Young Thug),"Calvin Harris, Dua Lipa, Young Thug",3,190625045,100,Minor,16,0,8,2022-05-27
+835,Born Singer,BTS,1,79095270,158,Minor,4,0,24,2022-06-10
+836,Little Freak,Harry Styles,1,273194684,142,Major,72,0,10,2022-05-20
+837,La Llevo Al Cielo (Ft. ��engo F,"Nengo Flow, Anuel Aa, Chris Jedi, Chencho Corleone",4,333146475,170,Minor,11,0,17,2022-05-20
+838,True Love,"Kanye West, XXXTENTACION",2,194902696,84,Minor,2,0,51,2022-05-27
+839,Satellite,Harry Styles,1,311482393,139,Major,14,0,9,2022-05-20
+840,Pass The Dutchie,Musical Youth,1,195918494,151,Major,20,0,32,1982-01-01
+841,"Villano Antillano: Bzrp Music Sessions, Vol. 51","Bizarrap, Villano Antillano",2,248511839,128,Minor,6,0,63,2022-06-08
+842,Love Of My Life,Harry Styles,1,233671263,118,Major,67,0,6,2022-05-20
+843,Grapejuice,Harry Styles,1,199587884,183,Major,36,14,20,2022-05-20
+844,So Good,Halsey,1,91781263,83,Minor,4,0,18,2022-06-09
+845,Belly Dancer,"BYOR, Imanbek",2,383835984,122,Major,6,0,17,2022-02-18
+846,Keep Driving,Harry Styles,1,236060709,165,Major,32,0,18,2022-05-20
+847,Cinema,Harry Styles,1,189236868,106,Minor,35,5,9,2022-05-20
+848,Die Young (feat. 347aidan),"Sleepy hallow, 347aidan",2,160845341,77,Major,83,0,11,2022-05-25
+849,Only Love Can Hurt Like This,Paloma Faith,1,588955257,91,Major,10,0,33,2014-01-01
+850,Hold My Hand,Lady Gaga,1,238350348,148,Major,5,0,41,2022-05-03
+851,Daydreaming,Harry Styles,1,187703102,114,Minor,31,2,13,2022-05-20
+852,Numb,"Marshmello, Khalid",2,295307001,120,Minor,12,1,10,2022-06-10
+853,Nos Comemos (feat. Ozuna),"Ozuna, Tiago pzk",2,138334433,92,Major,10,0,9,2022-06-02
+854,Me and Your Mama,Childish Gambino,1,445590495,118,Major,1,3,7,2016-11-10
+855,Crazy What Love Can Do,"David Guetta, Ella Henderson, Becky Hill",3,286739476,123,Minor,3,0,16,2022-03-18
+856,SLOW DANCING IN THE DARK,Joji,1,1122364376,89,Major,54,1,19,2018-09-12
+857,Antes de Perderte,Duki,1,157136970,110,Minor,49,0,12,2022-06-02
+858,Boyfriends,Harry Styles,1,137070925,118,Major,94,0,11,2022-05-20
+859,295,Sidhu Moose Wala,1,183273246,90,Minor,21,0,11,2021-05-15
+860,Tak Ingin Usai,Keisya Levronka,1,184807630,130,Major,82,0,11,2022-05-13
+861,En El Radio Un Cochinero,Victor Cibrian,1,164856284,154,Minor,47,0,10,2022-05-13
+862,Master of Puppets (Remastered),Metallica,1,704171068,105,Minor,0,44,20,1986-03-03
+863,BREAK MY SOUL,Beyonc�,1,354614964,115,Minor,4,0,26,2022-06-21
+864,ULTRA SOLO REMIX,"De La Ghetto, Feid, Polima WestCoast, Paloma Mami, Pailita",5,279717388,110,Major,8,0,6,2022-06-16
+865,Massive,Drake,1,195628667,125,Minor,12,2,15,2022-06-17
+866,Betty (Get Money),Yung Gravy,1,221752937,102,Major,0,0,34,2022-06-10
+867,Ojos Marrones,Lasso,1,263280370,120,Minor,4,0,14,2022-02-06
+868,POP!,Nayeon,1,213505179,97,Major,4,0,3,2022-06-24
+869,Layla,"Sch��rze, DJ R",2,130419412,140,Minor,0,0,44,2022-03-24
+870,MORE,j-hope,1,155795783,97,Major,1,0,11,2022-07-01
+871,Sweet Child O' Mine,Guns N' Roses,1,1553497987,125,Major,9,11,10,1987-01-01
+872,Last Last,Burna Boy,1,293466523,88,Minor,13,0,8,2022-05-12
+873,SNAP,Rosa Linn,1,711366595,170,Major,11,0,45,2022-03-19
+874,Sticky,Drake,1,191448892,137,Minor,9,0,9,2022-06-17
+875,Hot Shit (feat. Ye & Lil Durk),"Kanye West, Lil Durk, Cardi B",3,85924992,157,Major,0,0,8,2022-07-01
+876,Ai Preto,"L7nnon, DJ Biel do Furduncinho, Bianca",3,176103902,130,Major,54,0,10,2022-06-03
+877,La Loto,"Anitta, Tini, Becky G",3,121189256,90,Major,10,0,8,2022-07-06
+878,die first,Nessa Barrett,1,131746175,183,Minor,7,0,12,2022-06-24
+879,Afraid To Feel,LF System,1,244790012,128,Major,2,0,27,2022-05-02
+880,Baile no Morro,"Mc Vitin Da Igrejinha, MC Tairon, DJ Win",3,129314708,130,Minor,46,0,7,2022-06-10
+881,c��mo dormi,Rels B,1,331511413,126,Major,24,0,12,2022-08-04
+882,Bad Decisions (with BTS & Snoop Dogg),"Snoop Dogg, BTS, Benny Blanco",3,219196651,120,Major,2,0,23,2022-08-05
+883,STAYING ALIVE (feat. Drake & Lil Baby),"Drake, DJ Khaled, Lil Baby",3,170732845,130,Minor,7,0,28,2022-08-05
+884,Caile,Luar La L,1,273914335,122,Major,30,0,9,2020-12-18
+885,Si Te La Encuentras Por Ah�,Feid,1,179061440,172,Minor,15,0,13,2022-08-05
+886,GIVENCHY,Duki,1,185236961,103,Major,14,0,23,2022-07-20
+887,ALIEN SUPERSTAR,Beyonc�,1,171788484,122,Minor,0,0,17,2022-07-29
+888,Mary On A Cross,Ghost,1,387080183,130,Major,0,0,10,2019-09-13
+889,Attention,NewJeans,1,264717480,105,Minor,24,0,8,2022-08-01
+890,THE SHADE,Rex Orange County,1,244928911,120,Major,39,0,9,2022-03-11
+891,"Come Back Home - From ""Purple Hearts""",Sofia Carson,1,97610446,145,Major,24,0,12,2022-07-12
+892,El Rescate,"Grupo Marca Registrada, Junior H",2,287278853,99,Minor,28,0,11,2022-07-22
+893,Heartless,Kanye West,1,887906111,88,Minor,5,0,25,2008-01-01
+894,"Stay With Me (with Justin Timberlake, Halsey, & Pharrell)","Calvin Harris, Halsey, Pharrell Williams, Justin Timberlake",4,123473120,126,Major,28,0,29,2022-07-15
+895,Siempre Pendientes,"Peso Pluma, Luis R Conriquez",2,295152154,136,Major,33,1,13,2022-08-15
+896,JGL,"Luis R Conriquez, La Adictiva",2,323455692,113,Major,55,0,27,2022-02-18
+897,Don't You Worry,"David Guetta, Shakira, Black Eyed Peas",3,240918092,132,Major,20,0,21,2022-06-16
+898,Pipoco,"Melody, Ana Castela, Dj Chris No Beat",3,191873381,135,Major,47,0,34,2022-05-20
+899,Hold Me Closer,"Elton John, Britney Spears",2,284216603,126,Major,11,0,19,2017-11-10
+900,Forget Me,Lewis Capaldi,1,239411309,102,Minor,30,0,36,2022-09-09
+901,After LIKE,IVE,1,265548837,125,Major,10,0,9,2022-08-22
+902,Bound 2,Kanye West,1,703301727,149,Major,14,0,9,2013-01-01
+903,B.O.T.A. (Baddest Of Them All) - Edit,"Interplanetary Criminal, Eliza Rose",2,244585109,137,Major,24,61,15,2022-06-15
+904,Talk that Talk,TWICE,1,189476119,120,Minor,14,0,33,2022-08-26
+905,BILLIE EILISH.,Armani White,1,277132266,100,Major,11,0,9,2022-01-20
+906,Ferxxo 100,Feid,1,278920007,164,Minor,25,0,15,2022-06-03
+907,KU LO SA - A COLORS SHOW,Oxlade,1,222410722,93,Minor,31,0,22,2022-06-10
+908,Prohibidox,Feid,1,185392587,180,Minor,5,0,6,2022-09-13
+909,Static,Steve Lacy,1,202452860,79,Major,43,63,10,2022-07-15
+910,The Scientist,Coldplay,1,1608164312,146,Major,73,0,11,2002-08-05
+911,Sparks,Coldplay,1,624101957,103,Major,75,5,10,2000-07-10
+912,Talk,YEAT,1,148461629,140,Minor,8,0,54,2022-09-02
+913,XQ Te Pones As�,"Yandel, Feid",2,47093942,92,Major,13,0,15,2022-09-13
+914,Selfish,PnB Rock,1,380319238,102,Minor,11,0,19,2016-06-23
+915,Sin Se��,"Ovy On The Drums, Quevedo",2,209106362,118,Minor,33,1,11,2022-07-22
+916,Lady Mi Amor,Feid,1,53987404,93,Major,6,0,15,2022-09-13
+917,Poland,Lil Yachty,1,115331792,150,Minor,14,83,11,2022-06-23
+918,THE LONELIEST,M��ne,1,225093344,130,Major,0,0,8,2022-10-07
+919,Bye Bye,"Marshmello, Juice WRLD",2,84697729,83,Minor,6,0,51,2022-10-14
+920,BABY OTAKU,"Fran C, Polima WestCoast, Nickoog Clk, Pablito Pesadilla",4,159240673,102,Major,5,0,6,2022-08-18
+921,Nxde,(G)I-DLE,1,170709584,136,Minor,4,0,48,2022-10-17
+922,Miss You,Southstar,1,154356956,145,Major,17,0,19,1982-05-16
+923,we fell in love in october,girl in red,1,723043854,130,Major,11,18,16,2018-11-21
+924,2 Be Loved (Am I Ready),Lizzo,1,247689123,156,Major,9,0,8,2022-07-14
+925,Celestial,Ed Sheeran,1,176474912,123,Major,5,0,16,2022-09-29
+926,Typa Girl,BLACKPINK,1,235549288,132,Major,7,0,63,2022-09-16
+927,I Really Want to Stay at Your House,"Rosa Walton, Hallie Coggins",2,140430339,125,Minor,0,0,9,2020-12-18
+928,California Breeze,Lil Baby,1,85559365,162,Minor,0,0,11,2022-10-14
+929,Bamba (feat. Aitch & BIA),"Luciano, Aitch, B�",3,146223492,138,Major,14,0,13,2022-09-22
+930,Casei Com a Putaria,"MC Ryan SP, Love Funk, Mc Paiva ZS",3,187701588,161,Minor,12,0,5,2022-07-01
+931,Major Distribution,"Drake, 21 Savage",2,154863153,131,Minor,1,0,7,2022-11-04
+932,Pussy & Millions (feat. Travis Scott),"Drake, Travis Scott, 21 Savage",3,191333656,122,Minor,6,0,35,2022-11-04
+933,Vigilante Shit,Taylor Swift,1,253650850,80,Minor,17,0,12,2022-10-21
+934,Question...?,Taylor Swift,1,223064273,109,Major,20,0,30,2022-10-21
+935,On BS,"Drake, 21 Savage",2,170413877,158,Major,2,0,39,2022-11-04
+936,Mastermind,Taylor Swift,1,218320587,126,Major,55,0,9,2022-10-21
+937,Circo Loco,"Drake, 21 Savage",2,141720999,104,Major,1,0,32,2022-11-04
+938,Labyrinth,Taylor Swift,1,187339835,110,Major,80,22,12,2022-10-21
+939,Spin Bout U,"Drake, 21 Savage",2,198365537,130,Major,1,0,16,2022-11-04
+940,Sweet Nothing,Taylor Swift,1,186104310,177,Major,97,0,12,2022-10-21
+941,"Would've, Could've, Should've",Taylor Swift,1,177503916,158,Major,43,0,15,2022-10-21
+942,Con La Brisa,"Ludwig Goransson, Foudeqush",2,71095708,114,Minor,51,33,14,2022-11-04
+943,Privileged Rappers,"Drake, 21 Savage",2,112436403,144,Major,0,0,12,2022-11-04
+944,The Astronaut,Jin,1,203436468,125,Major,0,0,14,2022-10-28
+945,BackOutsideBoyz,Drake,1,93367537,142,Minor,4,0,39,2022-11-04
+946,Broke Boys,"Drake, 21 Savage",2,106249219,120,Major,1,0,25,2022-11-04
+947,The Great War,Taylor Swift,1,181382590,96,Major,22,0,8,2022-10-21
+948,My Mind & Me,Selena Gomez,1,91473363,144,Major,57,0,8,2022-11-03
+949,Bigger Than The Whole Sky,Taylor Swift,1,121871870,166,Major,83,1,12,2022-10-21
+950,A Veces (feat. Feid),"Feid, Paulo Londra",2,73513683,92,Major,4,0,8,2022-11-03
+951,En La De Ella,"Feid, Sech, Jhayco",3,133895612,97,Major,8,0,12,2022-10-20
+952,Alone,Burna Boy,1,96007391,90,Minor,15,0,11,2022-11-04
