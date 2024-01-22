@@ -63,7 +63,7 @@ After finishing the dashboard, this project comes to an end.
 
 As I said in the beginning, this was my first ever project working with all the tools and softwares mentioned in the development so all kinds of feedback are welcome. 
 
-Don't doubt in contact me for any problem, advice or suggestion in my Linkedin: 
+Don't hesitate in contact me for any problem, doubt, advice or suggestion in my Linkedin: 
 
 www.linkedin.com/in/juan-ignacio-chiloteguy-631a032a4
 
