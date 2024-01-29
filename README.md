@@ -45,6 +45,7 @@ Then, I managed to define some redundant or relevant requests to be obtained by 
 - Average values of: bpm, acousticness, liveness and instrumentalness.
 
 Among other things.
+
 After obtaining all these requested queries, the next and final thing to do was to visualize all this new generated information and present it in good looking charts and tables.
 
 3- Data visualization and dashboard generation with Power BI 
